@@ -50,6 +50,7 @@ bibliography: plws-ref.bib
 csl: global-ecology-and-conservation.csl
 editor: visual
 format: 
+  html: default
   pdf: default
   docx: default
 ---
