@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "nan.rbind.io"
+  title: "Nan Nourn នួូនណាន"
   navbar:
     left:
       - href: index.qmd
@@ -11,9 +11,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: quartz
     css: styles.css
     toc: true
 
-
-
+execute:
+  freeze: auto

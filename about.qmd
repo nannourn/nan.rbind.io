@@ -2,8 +2,5 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Hi, my name is Nan Nourn. I am a doctoral candidate in the Fisheries & Wildlife 
+Department and Ecology, Evolution & Behavior Program at Michigan State University.
