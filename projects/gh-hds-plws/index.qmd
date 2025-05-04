@@ -104,7 +104,7 @@ However, modern estimates of wildlife populations need to take account imperfect
 
 We examine the affect of environmental and human covariates and how this affects localized greater hornbill densities across spatially replicated transects in Prey Lang Wildlife Sanctuary. [@royle2004e] utilized hierarchical distance sampling in order to examine the effect of covariates on abundance.
 
-This analytical framework allows flexibility for rarely collected data, especially in transects that were met with logistical constraints [\@sillett2012ea](#).
+This analytical framework allows flexibility for rarely collected data, especially in transects that were met with logistical constraints [@sillett2012ea].
 
 ## Great Hornbills
 
