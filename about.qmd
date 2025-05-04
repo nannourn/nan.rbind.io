@@ -1,6 +1,16 @@
 ---
 title: "About"
+about:
+  template: jolla
+  image: profile.jpeg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/seriouswildlife
+    - icon: github
+      text: Github
+      href: https://github.com/nannourn
 ---
 
-Hi, my name is Nan Nourn. I am a doctoral candidate in the Fisheries & Wildlife 
-Department and Ecology, Evolution & Behavior Program at Michigan State University.
+Nan Nourn is a doctoral candidate in the Department of Fisheries & Wildlife and Ecology,
+Evolution & Behavior Program at Michigan State University. When not trekking deep into tropical jungles, Nan enjoys spending time with his pet cat Max and pet bunny Boca. 

@@ -1,0 +1,17 @@
+{
+  "hash": "d9a7c47ed0795d0cb56c5d957b57903d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\n---\n\n\n\n\nHi, my name is Nan Nourn. I am a doctoral candidate in the Fisheries & Wildlife \nDepartment and Ecology, Evolution & Behavior Program at Michigan State University.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# testing code <- testing font\nplot(mtcars$wt, mtcars$hp)\n```\n\n::: {.cell-output-display}\n![](about_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -4,16 +4,26 @@ project:
 website:
   title: "Nan Nourn នួូនណាន"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
 
 format:
   html:
-    theme: quartz
+    theme: minty
     css: styles.css
     toc: true
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
+    monofont: Fira Code
+    code-fold: show
+    code-link: true
+    code-overflow: wrap
 
 execute:
   freeze: auto

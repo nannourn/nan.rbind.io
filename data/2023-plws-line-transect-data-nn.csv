@@ -1,0 +1,780 @@
+﻿grid_id,researchers,date,time_start,time_finish,time_of_transect,duration,time_recorded_wildlife,grid_line,grid_line_detected,grid_line_direction,x_transect,y_transect,x_mid,y_mid,x_species,y_species,habitat_type,species_detected,scientific_name,wildlife_size,bearing_to_wildlife,distance_to_wildlife,bearing_to_line,distance_perpendicular,province,notes
+01,"Dong Phirun, Khorn Doeurn, Him Yul and Sroeurn Makara",2023-02-10,6:04,11:26,AM,5:22,NA,A ,NA,north,569052,1419901,569552,1420401,NA,NA,Farm,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+01,"Dong Phirun, Khorn Doeurn, Him Yul and Sroeurn Makara",2023-02-10,6:04,11:26,AM,5:22,NA,B,NA,east,569052,1420901,569552,1420401,NA,NA,Farm,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+01,"Dong Phirun, Khorn Doeurn, Him Yul and Sroeurn Makara",2023-02-10,6:04,11:26,AM,5:22,NA,C,NA,south,570052,1420901,569552,1420401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+01,"Dong Phirun, Khorn Doeurn, Him Yul and Sroeurn Makara",2023-02-10,6:04,11:26,AM,5:22,NA,D,NA,west,570052,1419901,569552,1420401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+01,"Dong Phirun, Khorn Doeurn, Him Yul and Sroeurn Makara",2023-02-10,13:00,16:31,PM,3:31,NA,A ,NA,north,569052,1419901,569552,1420401,NA,NA,Farm,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+01,"Dong Phirun, Khorn Doeurn, Him Yul and Sroeurn Makara",2023-02-10,13:00,16:31,PM,3:31,NA,D,NA,west,570052,1419901,569552,1420401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+01,"Dong Phirun, Khorn Doeurn, Him Yul and Sroeurn Makara",2023-02-10,13:00,16:31,PM,3:31,NA,C,NA,south,570052,1420901,569552,1420401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+01,"Dong Phirun, Khorn Doeurn, Him Yul and Sroeurn Makara",2023-02-10,13:00,16:31,PM,3:31,NA,B,NA,east,569052,1420901,569552,1420401,NA,NA,Farm,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+01,"Dong Phirun, Khorn Doeurn, Him Yul and Sroeurn Makara",2023-02-10,6:04,11:26,AM,5:22,7:52,B,B - C,east,NA,NA,569552,1420401,569735,1420889,Evergreen,Pileated gibbon,Hylobates pileatus,3,360,11,90,0.00000000000000269422,Kampong Thom,
+01,"Dong Phirun, Khorn Doeurn, Him Yul and Sroeurn Makara",2023-02-10,6:04,11:26,AM,5:22,8:02,B,B - C,east,NA,NA,569552,1420401,564892,1420891,Evergreen,Indochinese silvered langur,Trachypithecus germaini,11,40,47,90,30.21101765526730000000,Kampong Thom,
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,6:01,11:42,AM,5:41,6:31,A ,A​​ - B,north,NA,NA,569552,1423401,569034,1423211,Semi-evergreen,Green Peafowl,Pavo muticus,1,324,30,360,17.63355756877420000000,Kampong Thom,
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,13:00,16:11,PM,3:11,13:11,D,A - D,west,NA,NA,569552,1423401,569305,1422927,Semi-evergreen,Wild pig,Sus scrofa,1,150,12,90,6.00000000000000000000,Kampong Thom,
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,6:01,11:42,AM,5:41,NA,A ,NA,north,569052,1422901,569552,1423401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,6:01,11:42,AM,5:41,NA,B,NA,east,569052,1423901,569552,1423401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,6:01,11:42,AM,5:41,NA,C,NA,south,570052,1423901,569552,1423401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,6:01,11:42,AM,5:41,NA,D,NA,west,570052,1422901,569552,1423401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,13:00,16:11,PM,3:11,13:31,D,A - D,west,NA,NA,569552,1423401,569853,1422872,Semi-evergreen,Great Hornbill,Buceros bicornis,4,204,60,90,24.40419858454800000000,Kampong Thom,
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,13:00,16:11,PM,3:11,NA,A ,NA,north,569052,1422901,569552,1423401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,13:00,16:11,PM,3:11,NA,D,NA,west,570052,1422901,569552,1423401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,13:00,16:11,PM,3:11,NA,C,NA,south,570052,1423901,569552,1423401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,13:00,16:11,PM,3:11,NA,B,NA,east,569052,1423901,569552,1423401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,13:00,16:11,PM,3:11,15:23,A ,B - A,south,NA,NA,569552,1423401,569046,1423653,Semi-evergreen,Long-tailed macaque,Macaca fascicularis,1,141,75,180,47.19902932873780000000,Kampong Thom,
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,13:00,16:11,PM,3:11,15:46,A ,B - A,south,NA,NA,569552,1423401,569044,1423114,Semi-evergreen,Green Peafowl,Pavo muticus,2,290,70,180,65.77848345501360000000,Kampong Thom,
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,6:01,11:42,AM,5:41,7:27,B,B - C,east,NA,NA,569552,1423401,569256,1423888,Evergreen,Long-tailed macaque,Macaca fascicularis,4,164,47,90,12.95495572339900000000,Kampong Thom,
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,6:01,11:42,AM,5:41,7:45,B,B - C,east,NA,NA,569552,1423401,569421,1423899,Evergreen,Great Hornbill,Buceros bicornis,2,207,13,90,5.90187649661411000000,Kampong Thom,
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,6:01,11:42,AM,5:41,8:40,C,C - D,south,NA,NA,569552,1423401,570084,1423777,Evergreen,Pileated gibbon,Hylobates pileatus,2,131,20,180,15.09419160445540000000,Kampong Thom,
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,6:01,11:42,AM,5:41,9:02,C,C - D,south,NA,NA,569552,1423401,570101,1423542,Evergreen,Great Hornbill,Buceros bicornis,1,7,11,180,1.34056277745662000000,Kampong Thom,
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,6:01,11:42,AM,5:41,9:30,C,C - D,south,NA,NA,569552,1423401,570061,1423346,Evergreen,Great Hornbill,Buceros bicornis,1,170,35,180,6.07768621834256000000,Kampong Thom,
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,6:01,11:42,AM,5:41,9:45,C,C - D,south,NA,NA,569552,1423401,570056,1423054,Evergreen,Wild pig,Sus scrofa,3,157,19,180,7.42389144129620000000,Kampong Thom,
+02,"Hul Bora, Him Yul and Chhay Lay",2023-02-09,13:00,16:11,PM,3:11,13:55,C,D - C,south,NA,NA,569552,1423401,570066,1423362,Semi-evergreen,Great Hornbill,Buceros bicornis,1,290,40,360,37.58770483143630000000,Kampong Thom,
+03,"Chhay Lay, Khorn Doeurn and Hul Bora",2023-01-28,6:00,11:35,AM,5:35,6:30,A ,A​​ - B,north,NA,NA,576552,1432401,576069,1432487,DDF,Green Peafowl,Pavo muticus,1,60,44,360,38.10511776651530000000,Kratie,
+03,"Chhay Lay, Khorn Doeurn and Hul Bora",2023-01-28,6:00,11:35,AM,5:35,NA,A ,NA,north,576052,1431901,576552,1432401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+03,"Chhay Lay, Khorn Doeurn and Hul Bora",2023-01-28,6:00,11:35,AM,5:35,NA,B ,NA,east,576052,1432901,576552,1432401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+03,"Chhay Lay, Khorn Doeurn and Hul Bora",2023-01-28,6:00,11:35,AM,5:35,NA,C ,NA,south,577052,1432901,576552,1432401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+03,"Chhay Lay, Khorn Doeurn and Hul Bora",2023-01-28,6:00,11:35,AM,5:35,NA,D ,NA,west,577052,1431901,576552,1432401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+03,"Chhay Lay, Khorn Doeurn and Hul Bora",2023-01-28,13:00,16:23,PM,3:23,NA,A ,NA,north,576052,1431901,576552,1432401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+03,"Chhay Lay, Khorn Doeurn and Hul Bora",2023-01-28,13:00,16:23,PM,3:23,NA,D,NA,west,577052,1431901,576552,1432401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+03,"Chhay Lay, Khorn Doeurn and Hul Bora",2023-01-28,13:00,16:23,PM,3:23,NA,C,NA,south,577052,1432901,576552,1432401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+03,"Chhay Lay, Khorn Doeurn and Hul Bora",2023-01-28,13:00,16:23,PM,3:23,NA,B,NA,east,576052,1432901,576552,1432401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+04,"Dong Phirun, Khorn Doeurn, Him Yul",2023-01-20,6:00,11:34,AM,5:34,NA,A ,NA,north,582052,1432901,582552,1433401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+04,"Dong Phirun, Khorn Doeurn, Him Yul",2023-01-20,6:00,11:34,AM,5:34,NA,B ,NA,east,582052,1433901,582552,1433401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+04,"Dong Phirun, Khorn Doeurn, Him Yul",2023-01-20,6:00,11:34,AM,5:34,NA,C ,NA,south,583052,1433901,582552,1433401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+04,"Dong Phirun, Khorn Doeurn, Him Yul",2023-01-20,6:00,11:34,AM,5:34,NA,D ,NA,west,583052,1432901,582552,1433401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+04,"Dong Phirun, Khorn Doeurn, Him Yul",2023-01-20,13:00,16:17,PM,3:17,NA,A ,NA,north,582052,1432901,582552,1433401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+04,"Dong Phirun, Khorn Doeurn, Him Yul",2023-01-20,13:00,16:17,PM,3:17,NA,D,NA,west,583052,1432901,582552,1433401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+04,"Dong Phirun, Khorn Doeurn, Him Yul",2023-01-20,13:00,16:17,PM,3:17,NA,C,NA,south,583052,1433901,582552,1433401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+04,"Dong Phirun, Khorn Doeurn, Him Yul",2023-01-20,13:00,16:17,PM,3:17,NA,B,NA,east,582052,1433901,582552,1433401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+05,"Him Yul, Hul Bora, Khorn Doeurn",2023-01-18,6:00,11:38,AM,5:38,NA,A ,NA,north,579052,1434901,579552,1435401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+05,"Him Yul, Hul Bora, Khorn Doeurn",2023-01-18,6:00,11:38,AM,5:38,NA,B,NA,east,579052,1435901,579552,1435401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+05,"Him Yul, Hul Bora, Khorn Doeurn",2023-01-18,6:00,11:38,AM,5:38,NA,C,NA,south,580052,1435901,579552,1435401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+05,"Him Yul, Hul Bora, Khorn Doeurn",2023-01-18,6:00,11:38,AM,5:38,NA,D,NA,west,580052,1434901,579552,1435401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+05,"Him Yul, Hul Bora, Khorn Doeurn",2023-01-18,13:00,16:36,PM,3:36,NA,A ,NA,north,579052,1434901,579552,1435401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+05,"Him Yul, Hul Bora, Khorn Doeurn",2023-01-18,13:00,16:36,PM,3:36,NA,D ,NA,west,580052,1434901,579552,1435401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+05,"Him Yul, Hul Bora, Khorn Doeurn",2023-01-18,13:00,16:36,PM,3:36,NA,C,NA,south,580052,1435901,579552,1435401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+05,"Him Yul, Hul Bora, Khorn Doeurn",2023-01-18,13:00,16:36,PM,3:36,NA,B ,NA,east,579052,1435901,579552,1435401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+05,"Him Yul, Hul Bora, Khorn Doeurn",2023-01-18,13:00,16:36,PM,3:36,13:58,C,D - C,south,NA,NA,579552,1435401,580095,1435265,Semi-evergreen,Great Hornbill,Buceros bicornis,2,240,4,360,3.46410161513775000000,Kratie,
+05,"Him Yul, Hul Bora, Khorn Doeurn",2023-01-18,13:00,16:36,PM,3:36,14:18,C,D - C,south,NA,NA,579552,1435401,580060,1435565,Evergreen,Green Peafowl,Pavo muticus,1,60,22,360,19.05255888325760000000,Kratie,
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,6:00,11:44,AM,5:44,6:35,A ,A​​ - B,north,NA,NA,569552,1441401,569031,1441461,DDF,Great Hornbill,Buceros bicornis,2,90,35,360,35.00000000000000000000,Kratie,
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,6:00,11:44,AM,5:44,6:47,A ,A​​ - B,north,NA,NA,569552,1441401,569019,1441563,DDF,Great Hornbill,Buceros bicornis,14,80,26,360,25.60500157831740000000,Kratie,
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,6:00,11:44,AM,5:44,6:53,A ,A​​ - B,north,NA,NA,569552,1441401,569034,1441616,DDF,Great Hornbill,Buceros bicornis,12,360,42,360,0.00000000000001028703,Kratie,
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,6:00,11:44,AM,5:44,7:03,A ,A​​ - B,north,NA,NA,569552,1441401,569043,1441795,Semi-evergreen,Great Hornbill,Buceros bicornis,2,320,112,360,71.99221228489240000000,Kratie,
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,6:00,11:44,AM,5:44,NA,A ,NA,north,569052,1440901,569552,1441401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,6:00,11:44,AM,5:44,NA,B,NA,east,569052,1441901,569552,1441401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,6:00,11:44,AM,5:44,NA,C,NA,south,570052,1441901,569552,1441401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,6:00,11:44,AM,5:44,NA,D,NA,west,570052,1440901,569552,1441401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,13:00,16:21,PM,3:21,NA,A ,NA,north,569052,1440901,569552,1441401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,13:00,16:21,PM,3:21,NA,D,NA,west,570052,1440901,569552,1441401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,13:00,16:21,PM,3:21,NA,C ,NA,south,570052,1441901,569552,1441401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,13:00,16:21,PM,3:21,NA,B ,NA,east,569052,1441901,569552,1441401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,13:00,16:21,PM,3:21,15:38,A ,B - A,south,NA,NA,569552,1441401,569043,1440999,DDF,Great Hornbill,Buceros bicornis,2,30,27,180,13.50000000000000000000,Kratie,
+06,"Dong Phirun, Him Yul and Khorn Doeurn ",2023-01-23,6:00,11:44,AM,5:44,7:20,B,B - C,east,NA,NA,569552,1441401,569100,1441900,Semi-evergreen,Great Hornbill,Buceros bicornis,2,360,96,90,0.00000000000002351322,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,6:00,11:31,AM,5:31,6:20,A ,A​​ - B,north,NA,NA,572552,1442401,572041,1442086,Evergreen,Green Peafowl,Pavo muticus,1,40,50,360,32.13938048432700000000,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,6:00,11:31,AM,5:31,6:30,A ,A​​ - B,north,NA,NA,572552,1442401,572039,1442141,Evergreen,Great Hornbill,Buceros bicornis,1,180,32,360,0.00000000000000391887,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,6:00,11:31,AM,5:31,6:55,A ,A​​ - B,north,NA,NA,572552,1442401,572054,1442267,Evergreen,Pileated gibbon,Hylobates pileatus,2,320,34,360,21.85477872934230000000,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,6:00,11:31,AM,5:31,7:05,A ,A​​ - B,north,NA,NA,572552,1442401,572070,1442347,Evergreen,Great Hornbill,Buceros bicornis,2,80,63,360,62.04288843976910000000,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,6:00,11:31,AM,5:31,7:14,A ,A​​ - B,north,NA,NA,572552,1442401,572081,1442478,Evergreen,Long-tailed macaque,Macaca fascicularis,3,90,42,360,42.00000000000000000000,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,6:00,11:31,AM,5:31,NA,A ,NA,north,572052,1441901,572552,1442401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,6:00,11:31,AM,5:31,NA,B,NA,east,572052,1442901,572552,1442401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,6:00,11:31,AM,5:31,NA,C,NA,south,573052,1442901,572552,1442401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,6:00,11:31,AM,5:31,NA,D,NA,west,573052,1441901,572552,1442401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,13:00,16:51,PM,3:51,NA,A ,NA,north,572052,1441901,572552,1442401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,13:00,16:51,PM,3:51,NA,D,NA,west,573052,1441901,572552,1442401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,13:00,16:51,PM,3:51,NA,C,NA,south,573052,1442901,572552,1442401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,13:00,16:51,PM,3:51,NA,B,NA,east,572052,1442901,572552,1442401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,13:00,16:51,PM,3:51,13:02,D,A - D,west,NA,NA,572552,1442401,572059,1441904,Evergreen,Pileated gibbon,Hylobates pileatus,3,360,91,90,0.00000000000002228857,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,13:00,16:51,PM,3:51,13:05,D,A - D,west,NA,NA,572552,1442401,572128,1441889,Evergreen,Great Hornbill,Buceros bicornis,2,20,69,90,23.59938988947110000000,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,13:00,16:51,PM,3:51,13:16,D,A - D,west,NA,NA,572552,1442401,572277,1441898,Evergreen,Green Peafowl,Pavo muticus,2,70,11,90,10.33661882864500000000,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,13:00,16:51,PM,3:51,16:14,A ,B - A,south,NA,NA,572552,1442401,572068,1442802,Evergreen,Green Peafowl,Pavo muticus,2,240,40,180,34.64101615137750000000,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,13:00,16:51,PM,3:51,16:21,A ,B - A,south,NA,NA,572552,1442401,572075,1442392,Evergreen,Pileated gibbon,Hylobates pileatus,2,250,20,180,18.79385241571820000000,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,6:00,11:31,AM,5:31,7:31,B,B - C,east,NA,NA,572552,1442401,573057,1442897,Evergreen,Wild pig,Sus scrofa,5,110,22,90,20.67323765729000000000,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,6:00,11:31,AM,5:31,9:08,C,C - D,south,NA,NA,572552,1442401,573036,1442342,Evergreen,Green Peafowl,Pavo muticus,2,250,60,180,56.38155724715450000000,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,13:00,16:51,PM,3:51,14:17,C,D - C,south,NA,NA,572552,1442401,573034,1442263,Evergreen,Green Peafowl,Pavo muticus,2,70,60,360,56.38155724715450000000,Kratie,
+07,"Hul Bora, Him Yul and Chhay Lay",2023-01-22,13:00,16:51,PM,3:51,14:37,C,D - C,south,NA,NA,572552,1442401,573011,1442641,Evergreen,Great Hornbill,Buceros bicornis,3,340,22,360,7.52444315316471000000,Kratie,
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,6:00,11:36,AM,5:36,6:02,A ,A​​ - B,north,NA,NA,567552,1443401,567051,1442903,Evergreen,Great Hornbill,Buceros bicornis,2,100,70,360,68.93654271085460000000,Kampong Thom,
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,6:00,11:36,AM,5:36,NA,A ,NA,north,567052,1442901,567552,1443401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,6:00,11:36,AM,5:36,NA,B,NA,east,567052,1443901,567552,1443401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,6:00,11:36,AM,5:36,NA,C,NA,south,568052,1443901,567552,1443401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,6:00,11:36,AM,5:36,NA,D ,NA,west,568052,1442901,567552,1443401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,13:00,16:48,PM,3:48,NA,A ,NA,north,567052,1442901,567552,1443401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,13:00,16:48,PM,3:48,NA,D ,NA,west,568052,1442901,567552,1443401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,13:00,16:48,PM,3:48,NA,C ,NA,south,568052,1443901,567552,1443401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,13:00,16:48,PM,3:48,NA,B ,NA,east,567052,1443901,567552,1443401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,6:00,11:36,AM,5:36,7:23,B,B - C,east,NA,NA,567552,1443401,567443,1443894,Evergreen,Pileated gibbon,Hylobates pileatus,2,260,90,90,88.63269777109870000000,Kampong Thom,
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,6:00,11:36,AM,5:36,10:36,D ,D - A,west,NA,NA,567552,1443401,567301,1442908,Evergreen,Green Peafowl,Pavo muticus,2,150,30,270,15.00000000000000000000,Kampong Thom,
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,6:00,11:36,AM,5:36,10:06,D ,D - A,west,NA,NA,567552,1443401,567743,1442929,Evergreen,Great Hornbill,Buceros bicornis,1,80,20,270,19.69615506024420000000,Kampong Thom,
+08,"Hul Bora, Dong Phirun and Seng Naroth",2023-02-26,13:00,16:48,PM,3:48,14:37,C,D - C,south,NA,NA,567552,1443401,568094,1443656,DDF,Great Hornbill,Buceros bicornis,7,100,56,360,55.14923416868360000000,Kampong Thom,
+09,"Bon Dea, Thang Sros and Khiev Kimnannara",2023-01-26,6:06,11:30,AM,5:24,NA,A ,NA,north,589052,1443901,589552,1444401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+09,"Bon Dea, Thang Sros and Khiev Kimnannara",2023-01-26,6:06,11:30,AM,5:24,NA,B,NA,east,589052,1444901,589552,1444401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+09,"Bon Dea, Thang Sros and Khiev Kimnannara",2023-01-26,6:06,11:30,AM,5:24,NA,C,NA,south,590052,1444901,589552,1444401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+09,"Bon Dea, Thang Sros and Khiev Kimnannara",2023-01-26,6:06,11:30,AM,5:24,NA,D,NA,west,590052,1443901,589552,1444401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+09,"Bon Dea, Thang Sros and Khiev Kimnannara",2023-01-26,13:00,16:32,PM,3:32,NA,A ,NA,north,589052,1443901,589552,1444401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+09,"Bon Dea, Thang Sros and Khiev Kimnannara",2023-01-26,13:00,16:32,PM,3:32,NA,D,NA,west,590052,1443901,589552,1444401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+09,"Bon Dea, Thang Sros and Khiev Kimnannara",2023-01-26,13:00,16:32,PM,3:32,NA,C,NA,south,590052,1444901,589552,1444401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+09,"Bon Dea, Thang Sros and Khiev Kimnannara",2023-01-26,13:00,16:32,PM,3:32,NA,B,NA,east,589052,1444901,589552,1444401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+09,"Bon Dea, Thang Sros and Khiev Kimnannara",2023-01-26,6:06,11:30,AM,5:24,8:09,B,B - C,east,NA,NA,589552,1444401,589606,1449911,Semi-evergreen,Wild pig,Sus scrofa,3,300,24,90,20.78460969082650000000,Kratie,
+09,"Bon Dea, Thang Sros and Khiev Kimnannara",2023-01-26,13:00,16:32,PM,3:32,15:18,B,C - B,east,NA,NA,589552,1444401,589183,1448866,Semi-evergreen,Gaur,Bos gaurus,6,280,47,270,46.28596439157380000000,Kratie,
+10,Lon Sopheanna and Chey Chet,2023-01-20,6:05,11:35,AM,5:30,NA,A ,NA,north,581052,1444901,581052,1445401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+10,Lon Sopheanna and Chey Chet,2023-01-20,6:05,11:35,AM,5:30,NA,B,NA,east,581052,1445901,581052,1445401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+10,Lon Sopheanna and Chey Chet,2023-01-20,6:05,11:35,AM,5:30,NA,C,NA,south,582052,1445901,581052,1445401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+10,Lon Sopheanna and Chey Chet,2023-01-20,6:05,11:35,AM,5:30,NA,D,NA,west,582052,1444901,581052,1445401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+10,Lon Sopheanna and Chey Chet,2023-01-20,13:00,16:40,PM,3:40,NA,A ,NA,north,581052,1444901,581052,1445401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+10,Lon Sopheanna and Chey Chet,2023-01-20,13:00,16:40,PM,3:40,NA,D,NA,west,582052,1444901,581052,1445401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+10,Lon Sopheanna and Chey Chet,2023-01-20,13:00,16:40,PM,3:40,NA,C,NA,south,582052,1445901,581052,1445401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+10,Lon Sopheanna and Chey Chet,2023-01-20,13:00,16:40,PM,3:40,NA,B,NA,east,581052,1445901,581052,1445401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+10,Lon Sopheanna and Chey Chet,2023-01-20,6:05,11:35,AM,5:30,9:03,B,B - C,east,NA,NA,581052,1445401,581805,1445957,Evergreen,Wild pig,Sus scrofa,5,146,20,90,11.18385806941490000000,Kratie,
+11,"Hul Bora, Him Yul and Chhay Lay",2023-02-12,6:00,11:33,AM,5:33,6:26,A ,A​​ - B,north,NA,NA,561552,1446401,561033,1446183,Evergreen,Green Peafowl,Pavo muticus,1,60,70,360,60.62177826491070000000,Kampong Thom,
+11,"Hul Bora, Him Yul and Chhay Lay",2023-02-12,6:00,11:33,AM,5:33,NA,A ,NA,north,561052,1445901,561552,1446401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+11,"Hul Bora, Him Yul and Chhay Lay",2023-02-12,6:00,11:33,AM,5:33,NA,B,NA,east,561052,1446901,561552,1446401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+11,"Hul Bora, Him Yul and Chhay Lay",2023-02-12,6:00,11:33,AM,5:33,NA,C,NA,south,562052,1446901,561552,1446401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+11,"Hul Bora, Him Yul and Chhay Lay",2023-02-12,6:00,11:33,AM,5:33,NA,D,NA,west,562052,1445901,561552,1446401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+11,"Hul Bora, Him Yul and Chhay Lay",2023-02-12,13:00,16:35,PM,3:35,NA,A ,NA,north,561052,1445901,561552,1446401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+11,"Hul Bora, Him Yul and Chhay Lay",2023-02-12,13:00,16:35,PM,3:35,NA,D,NA,west,562052,1445901,561552,1446401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+11,"Hul Bora, Him Yul and Chhay Lay",2023-02-12,13:00,16:35,PM,3:35,NA,C,NA,south,562052,1446901,561552,1446401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+11,"Hul Bora, Him Yul and Chhay Lay",2023-02-12,13:00,16:35,PM,3:35,NA,B,NA,east,561052,1446901,561552,1446401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+11,"Hul Bora, Him Yul and Chhay Lay",2023-02-12,13:00,16:35,PM,3:35,15:43,A ,B - A,south,NA,NA,561552,1446401,561033,1446444,Evergreen,Great Hornbill,Buceros bicornis,1,54,48,180,38.83281572999750000000,Kampong Thom,
+11,"Hul Bora, Him Yul and Chhay Lay",2023-02-12,6:00,11:33,AM,5:33,7:44,B,B - C,east,NA,NA,561552,1446401,561477,1446941,Evergreen,Wild pig,Sus scrofa,2,161,36,90,11.72045356045760000000,Kampong Thom,
+11,"Hul Bora, Him Yul and Chhay Lay",2023-02-12,6:00,11:33,AM,5:33,9:26,D ,D - A,west,NA,NA,561552,1446401,561904,1445877,Evergreen,Great Hornbill,Buceros bicornis,1,250,49,270,46.04493841850950000000,Kampong Thom,
+12,"Khorn Doeurn, Sroeurn Makara and Dong Phirun",2023-02-13,6:07,11:43,AM,5:36,7:10,A ,A​​ - B,north,NA,NA,559552,1448401,559053,1448849,Evergreen,Great Hornbill,Buceros bicornis,2,80,18,360,17.72653955421970000000,Kampong Thom,
+12,"Khorn Doeurn, Sroeurn Makara and Dong Phirun",2023-02-13,13:00,16:43,PM,3:43,13:24,D,A - D,west,NA,NA,559552,1448401,559517,1447869,Evergreen,Long-tailed macaque,Macaca fascicularis,5,50,72,90,55.15519990456640000000,Kampong Thom,
+12,"Khorn Doeurn, Sroeurn Makara and Dong Phirun",2023-02-13,6:07,11:43,AM,5:36,NA,A ,NA,north,559052,1447901,559552,1448401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+12,"Khorn Doeurn, Sroeurn Makara and Dong Phirun",2023-02-13,6:07,11:43,AM,5:36,NA,B,NA,east,559052,1448901,559552,1448401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+12,"Khorn Doeurn, Sroeurn Makara and Dong Phirun",2023-02-13,6:07,11:43,AM,5:36,NA,C,NA,south,560052,1448901,559552,1448401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+12,"Khorn Doeurn, Sroeurn Makara and Dong Phirun",2023-02-13,6:07,11:43,AM,5:36,NA,D,NA,west,560052,1447901,559552,1448401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+12,"Khorn Doeurn, Sroeurn Makara and Dong Phirun",2023-02-13,13:00,16:43,PM,3:43,NA,A ,NA,north,559052,1447901,559552,1448401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+12,"Khorn Doeurn, Sroeurn Makara and Dong Phirun",2023-02-13,13:00,16:43,PM,3:43,NA,D,NA,west,560052,1447901,559552,1448401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+12,"Khorn Doeurn, Sroeurn Makara and Dong Phirun",2023-02-13,13:00,16:43,PM,3:43,NA,C,NA,south,560052,1448901,559552,1448401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+12,"Khorn Doeurn, Sroeurn Makara and Dong Phirun",2023-02-13,13:00,16:43,PM,3:43,NA,B,NA,east,559052,1448901,559552,1448401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+12,"Khorn Doeurn, Sroeurn Makara and Dong Phirun",2023-02-13,6:07,11:43,AM,5:36,8:00,B,B - C,east,NA,NA,559552,1448401,559485,1448887,Evergreen,Great Hornbill,Buceros bicornis,2,30,45,90,22.50000000000000000000,Kampong Thom,
+12,"Khorn Doeurn, Sroeurn Makara and Dong Phirun",2023-02-13,6:07,11:43,AM,5:36,8:25,B,B - C,east,NA,NA,559552,1448401,559925,1448884,Evergreen,Great Hornbill,Buceros bicornis,3,350,37,90,6.42498257367642000000,Kampong Thom,
+13,Khiev Kimnannara and Bon Dea,2023-01-19,6:00,11:40,AM,5:40,NA,A ,NA,north,579052,1449901,579552,1450401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+13,Khiev Kimnannara and Bon Dea,2023-01-19,6:00,11:40,AM,5:40,NA,B,NA,east,579052,1450901,579552,1450401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+13,Khiev Kimnannara and Bon Dea,2023-01-19,6:00,11:40,AM,5:40,NA,C,NA,south,580052,1450901,579552,1450401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+13,Khiev Kimnannara and Bon Dea,2023-01-19,6:00,11:40,AM,5:40,NA,D,NA,west,580052,1449901,579552,1450401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+13,Khiev Kimnannara and Bon Dea,2023-01-19,13:10,17:05,PM,3:55,NA,A ,NA,north,579052,1449901,579552,1450401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+13,Khiev Kimnannara and Bon Dea,2023-01-19,13:10,17:05,PM,3:55,NA,D,NA,west,580052,1449901,579552,1450401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+13,Khiev Kimnannara and Bon Dea,2023-01-19,13:10,17:05,PM,3:55,NA,C,NA,south,580052,1450901,579552,1450401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+13,Khiev Kimnannara and Bon Dea,2023-01-19,13:10,17:05,PM,3:55,NA,B,NA,east,579052,1450901,579552,1450401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+13,Khiev Kimnannara and Bon Dea,2023-01-19,6:00,11:40,AM,5:40,7:50,B,B - C,east,NA,NA,579552,1450401,579124,1450902,Evergreen,Great Hornbill,Buceros bicornis,1,30,13,90,6.50000000000000000000,Kratie,
+13,Khiev Kimnannara and Bon Dea,2023-01-19,6:00,11:40,AM,5:40,7:53,B,B - C,east,NA,NA,579552,1450401,579124,1450902,Evergreen,Great Hornbill,Buceros bicornis,1,15,40,90,10.35276180410080000000,Kratie,
+13,Khiev Kimnannara and Bon Dea,2023-01-19,6:00,11:40,AM,5:40,8:36,B,B - C,east,NA,NA,579552,1450401,579487,1450855,Evergreen,Great Hornbill,Buceros bicornis,1,70,52,90,48.86401628086720000000,Kratie,
+13,Khiev Kimnannara and Bon Dea,2023-01-19,6:00,11:40,AM,5:40,9:10,B,B - C,east,NA,NA,579552,1450401,579749,1450814,Evergreen,Great Hornbill,Buceros bicornis,1,210,39,90,19.50000000000000000000,Kratie,
+14,"Khiev Kimnannara, Him Yul, and Rot Polo",2023-02-24,6:05,11:30,AM,5:25,NA,A ,NA,north,548052,1450901,548552,1451401,NA,NA,Grassland,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,Grid #14 was cancel because there is big porn crossing the line 
+14,"Khiev Kimnannara, Him Yul, and Rot Polo",2023-02-24,6:05,11:30,AM,5:25,NA,B,NA,east,548052,1451901,548552,1451401,NA,NA,Grassland,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,Grid #14 was cancel because there is big porn crossing the line 
+14,"Khiev Kimnannara, Him Yul, and Rot Polo",2023-02-24,6:05,11:30,AM,5:25,NA,C,NA,south,549052,1451901,548552,1451401,NA,NA,Grassland,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,Grid #14 was cancel because there is big porn crossing the line 
+14,"Khiev Kimnannara, Him Yul, and Rot Polo",2023-02-24,6:05,11:30,AM,5:25,NA,D ,NA,west,549052,1450901,548552,1451401,NA,NA,Grassland,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,Grid #14 was cancel because there is big porn crossing the line 
+14,"Khiev Kimnannara, Him Yul, and Rot Polo",2023-02-24,13:00,16:30,PM,3:30,NA,A ,NA,north,548052,1450901,548552,1451401,NA,NA,Grassland,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,Grid #14 was cancel because there is big porn crossing the line 
+14,"Khiev Kimnannara, Him Yul, and Rot Polo",2023-02-24,13:00,16:30,PM,3:30,NA,D ,NA,west,549052,1450901,548552,1451401,NA,NA,Grassland,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,Grid #14 was cancel because there is big porn crossing the line 
+14,"Khiev Kimnannara, Him Yul, and Rot Polo",2023-02-24,13:00,16:30,PM,3:30,NA,C ,NA,south,549052,1451901,548552,1451401,NA,NA,Grassland,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,Grid #14 was cancel because there is big porn crossing the line 
+14,"Khiev Kimnannara, Him Yul, and Rot Polo",2023-02-24,13:00,16:30,PM,3:30,NA,B ,NA,east,548052,1451901,548552,1451401,NA,NA,Grassland,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,Grid #14 was cancel because there is big porn crossing the line 
+15,Chey Chet and Lon Sopheanna,2023-01-24,6:00,11:30,AM,5:30,6:30,A ,A​​ - B,north,NA,NA,589552,1451401,589016,1451201,Semi-evergreen,Great Hornbill,Buceros bicornis,11,60,35,360,30.31088913245540000000,Kratie,
+15,Chey Chet and Lon Sopheanna,2023-01-24,6:00,11:30,AM,5:30,NA,A ,NA,north,589052,1450901,589552,1451401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+15,Chey Chet and Lon Sopheanna,2023-01-24,6:00,11:30,AM,5:30,NA,B,NA,east,589052,1451901,589552,1451401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+15,Chey Chet and Lon Sopheanna,2023-01-24,6:00,11:30,AM,5:30,NA,C,NA,south,590052,1451901,589552,1451401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+15,Chey Chet and Lon Sopheanna,2023-01-24,6:00,11:30,AM,5:30,NA,D,NA,west,590052,1450901,589552,1451401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+15,Chey Chet and Lon Sopheanna,2023-01-24,13:00,16:30,PM,3:30,NA,A ,NA,north,589052,1450901,589552,1451401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+15,Chey Chet and Lon Sopheanna,2023-01-24,13:00,16:30,PM,3:30,NA,D,NA,west,590052,1450901,589552,1451401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+15,Chey Chet and Lon Sopheanna,2023-01-24,13:00,16:30,PM,3:30,NA,C,NA,south,590052,1451901,589552,1451401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+15,Chey Chet and Lon Sopheanna,2023-01-24,13:00,16:30,PM,3:30,NA,B,NA,east,589052,1451901,589552,1451401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+15,Chey Chet and Lon Sopheanna,2023-01-24,13:00,16:30,PM,3:30,13:52,D,A - D,west,NA,NA,589552,1451401,590015,1450900,Semi-evergreen,Great Hornbill,Buceros bicornis,1,60,90,90,77.94228634059950000000,Kratie,
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,6:00,11:30,AM,5:30,7:03,A ,A​​ - B,north,NA,NA,577552,1453401,577063,1453368,Evergreen,Wild pig,Sus scrofa,10,330,15,360,7.50000000000001000000,Kratie,
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,6:00,11:30,AM,5:30,NA,A ,NA,north,577052,1452901,577552,1453401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,6:00,11:30,AM,5:30,NA,B,NA,east,577052,1453901,577552,1453401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,6:00,11:30,AM,5:30,NA,C,NA,south,578052,1453901,577552,1453401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,6:00,11:30,AM,5:30,NA,D,NA,west,578052,1452901,577552,1453401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,13:00,16:30,PM,3:30,NA,A ,NA,north,577052,1452901,577552,1453401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,13:00,16:30,PM,3:30,NA,D,NA,west,578052,1452901,577552,1453401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,13:00,16:30,PM,3:30,NA,C,NA,south,578052,1453901,577552,1453401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,13:00,16:30,PM,3:30,NA,B,NA,east,577052,1453901,577552,1453401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,6:00,11:30,AM,5:30,8:08,B,B - C,east,NA,NA,577552,1453401,577448,1453905,Evergreen,Great Hornbill,Buceros bicornis,1,350,55,90,9.55064977168117000000,Kratie,
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,6:00,11:30,AM,5:30,10:05,D ,D - A,west,NA,NA,577552,1453401,578018,1452902,Evergreen,Great Hornbill,Buceros bicornis,1,200,35,270,11.97070501639840000000,Kratie,
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,6:00,11:30,AM,5:30,10:13,D ,D - A,west,NA,NA,577552,1453401,577902,1452914,Evergreen,Great Hornbill,Buceros bicornis,1,225,25,270,17.67766952966370000000,Kratie,
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,6:00,11:30,AM,5:30,10:16,D ,D - A,west,NA,NA,577552,1453401,577879,1452917,Evergreen,Pileated gibbon,Hylobates pileatus,2,235,51,270,41.77675425873860000000,Kratie,
+16,"Heam Pheak, Theam Vichet and Saly Suny",2023-01-22,13:00,16:30,PM,3:30,14:10,C,D - C,south,NA,NA,577552,1453401,578060,1452933,Evergreen,Indochinese silvered langur,Trachypithecus germaini,1,240,35,360,30.31088913245530000000,Kratie,
+17,Lon Sopheanna and Chey Chet and Prak Sina,2023-02-09,6:05,11:35,AM,5:30,NA,A ,NA,north,541052,1454901,541552,1455401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+17,Lon Sopheanna and Chey Chet and Prak Sina,2023-02-09,6:05,11:35,AM,5:30,NA,B,NA,east,541052,1455901,541552,1455401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+17,Lon Sopheanna and Chey Chet and Prak Sina,2023-02-09,6:05,11:35,AM,5:30,NA,C,NA,south,542052,1455901,541552,1455401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+17,Lon Sopheanna and Chey Chet and Prak Sina,2023-02-09,6:05,11:35,AM,5:30,NA,D,NA,west,542052,1454901,541552,1455401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+17,Lon Sopheanna and Chey Chet and Prak Sina,2023-02-09,13:03,16:34,PM,3:31,NA,A ,NA,north,541052,1454901,541552,1455401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+17,Lon Sopheanna and Chey Chet and Prak Sina,2023-02-09,13:03,16:34,PM,3:31,NA,D,NA,west,542052,1454901,541552,1455401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+17,Lon Sopheanna and Chey Chet and Prak Sina,2023-02-09,13:03,16:34,PM,3:31,NA,C,NA,south,542052,1455901,541552,1455401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+17,Lon Sopheanna and Chey Chet and Prak Sina,2023-02-09,13:03,16:34,PM,3:31,NA,B,NA,east,541052,1455901,541552,1455401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,6:00,11:35,AM,5:35,6:25,A ,A​​ - B,north,NA,NA,581552,1455401,581046,1454946,Evergreen,Great Hornbill,Buceros bicornis,2,290,50,360,46.98463103929540000000,Kratie,
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,6:00,11:35,AM,5:35,6:48,A ,A​​ - B,north,NA,NA,581552,1455401,581024,1455156,Evergreen,Great Hornbill,Buceros bicornis,2,55,35,360,28.67032155011470000000,Kratie,
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,6:00,11:35,AM,5:35,7:30,A ,A​​ - B,north,NA,NA,581552,1455401,581042,1455865,Evergreen,Wild pig,Sus scrofa,1,90,15,360,15.00000000000000000000,Kratie,
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,6:00,11:35,AM,5:35,NA,A ,NA,north,581052,1454901,581552,1455401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,6:00,11:35,AM,5:35,NA,B,NA,east,581052,1455901,581552,1455401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,6:00,11:35,AM,5:35,NA,C,NA,south,582052,1455901,581552,1455401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,6:00,11:35,AM,5:35,NA,D,NA,west,582052,1454901,581552,1455401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,13:00,16:42,PM,3:42,NA,A ,NA,north,581052,1454901,581552,1455401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,13:00,16:42,PM,3:42,NA,D,NA,west,582052,1454901,581552,1455401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,13:00,16:42,PM,3:42,NA,C,NA,south,582052,1455901,581552,1455401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,13:00,16:42,PM,3:42,NA,B,NA,east,581052,1455901,581552,1455401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,6:00,11:35,AM,5:35,8:42,B,B - C,east,NA,NA,581552,1455401,581920,1455909,Evergreen,Indochinese silvered langur,Trachypithecus germaini,3,50,19,90,14.55484441926060000000,Kratie,
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,6:00,11:35,AM,5:35,10:39,D ,D - A,west,NA,NA,581552,1455401,581945,1454907,Evergreen,Long-tailed macaque,Macaca fascicularis,2,18,30,270,9.27050983124842000000,Kratie,
+18,"Nov Soa, Chea Vanna and Chea Nim",2023-01-20,6:00,11:35,AM,5:35,10:41,D ,D - A,west,NA,NA,581552,1455401,581945,1454907,Evergreen,Great Hornbill,Buceros bicornis,2,250,21,270,19.73354503650410000000,Kratie,
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,6:00,11:35,AM,5:35,6:23,A ,A​​ - B,north,NA,NA,569552,1456401,569056,1455998,Evergreen,Long-tailed macaque,Macaca fascicularis,1,120,28,360,24.24871130596430000000,Kratie,
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,6:00,11:35,AM,5:35,NA,A ,NA,north,569052,1455901,569552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,6:00,11:35,AM,5:35,NA,B,NA,east,569052,1456901,569552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,6:00,11:35,AM,5:35,NA,C,NA,south,570052,1456901,569552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,6:00,11:35,AM,5:35,NA,D,NA,west,570052,1455901,569552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,13:00,16:30,PM,3:30,NA,A ,NA,north,569052,1455901,569552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,13:00,16:30,PM,3:30,NA,D,NA,west,570052,1455901,569552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,13:00,16:30,PM,3:30,NA,C,NA,south,570052,1456901,569552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,13:00,16:30,PM,3:30,NA,B,NA,east,569052,1456901,569552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,13:00,16:30,PM,3:30,13:20,D,A - D,west,NA,NA,569552,1456401,569338,1455875,Evergreen,Great Hornbill,Buceros bicornis,1,15,41,90,10.61158084920330000000,Kratie,
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,13:00,16:30,PM,3:30,13:50,D,A - D,west,NA,NA,569552,1456401,569928,1455895,Evergreen,Great Hornbill,Buceros bicornis,1,180,16,90,0.00000000000000195943,Kratie,
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,6:00,11:35,AM,5:35,8:40,B,B - C,east,NA,NA,569552,1456401,569829,1456871,Evergreen,Wild pig,Sus scrofa,1,165,7,90,1.81173331571765000000,Kratie,
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,13:00,16:30,PM,3:30,15:13,B,C - B,east,NA,NA,569552,1456401,569802,1456866,Evergreen,Great Hornbill,Buceros bicornis,1,250,13,270,12.21600407021680000000,Kratie,
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,13:00,16:30,PM,3:30,15:17,B,C - B,east,NA,NA,569552,1456401,569762,1456863,Evergreen,Great Hornbill,Buceros bicornis,1,245,50,270,45.31538935183250000000,Kratie,
+19,"Theam Vichet, Heam Pheak and Saly Suny",2023-01-26,6:00,11:35,AM,5:35,10:22,D ,D - A,west,NA,NA,569552,1456401,579971,1455907,Evergreen,Great Hornbill,Buceros bicornis,1,325,31,270,17.78086952688240000000,Kratie,
+20,"Chea Nim, Nov Soa and Chea Vanna",2023-01-24,6:00,11:34,AM,5:34,6:37,A ,A​​ - B,north,NA,NA,575552,1456401,575065,1456131,Evergreen,Great Hornbill,Buceros bicornis,2,320,25,360,16.06969024216350000000,Kratie,
+20,"Chea Nim, Nov Soa and Chea Vanna",2023-01-24,6:00,11:34,AM,5:34,6:51,A ,A​​ - B,north,NA,NA,575552,1456401,575045,1456353,Evergreen,Great Hornbill,Buceros bicornis,2,100,30,360,29.54423259036620000000,Kratie,
+20,"Chea Nim, Nov Soa and Chea Vanna",2023-01-24,6:00,11:34,AM,5:34,NA,A ,NA,north,575052,1455901,575552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+20,"Chea Nim, Nov Soa and Chea Vanna",2023-01-24,6:00,11:34,AM,5:34,NA,B,NA,east,575052,1456901,575552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+20,"Chea Nim, Nov Soa and Chea Vanna",2023-01-24,6:00,11:34,AM,5:34,NA,C,NA,south,576052,1456901,575552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+20,"Chea Nim, Nov Soa and Chea Vanna",2023-01-24,6:00,11:34,AM,5:34,NA,D,NA,west,576052,1455901,575552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+20,"Chea Nim, Nov Soa and Chea Vanna",2023-01-24,13:00,16:35,PM,3:35,NA,A ,NA,north,575052,1455901,575552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+20,"Chea Nim, Nov Soa and Chea Vanna",2023-01-24,13:00,16:35,PM,3:35,NA,D,NA,west,576052,1455901,575552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+20,"Chea Nim, Nov Soa and Chea Vanna",2023-01-24,13:00,16:35,PM,3:35,NA,C,NA,south,576052,1456901,575552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+20,"Chea Nim, Nov Soa and Chea Vanna",2023-01-24,13:00,16:35,PM,3:35,NA,B,NA,east,575052,1456901,575552,1456401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kratie,No wildlife
+20,"Chea Nim, Nov Soa and Chea Vanna",2023-01-24,6:00,11:34,AM,5:34,10:32,D ,D - A,west,NA,NA,575552,1456401,575753,1455893,Evergreen,Long-tailed macaque,Macaca fascicularis,6,205,15,270,6.33927392611049000000,Kratie,
+21,Dong Phirun and Seng Naroth,2023-02-22,6:02,11:42,AM,5:40,6:57,A ,A​​ - B,north,NA,NA,544552,1459401,544098,1459315,Evergreen,Great Hornbill,Buceros bicornis,5,340,70,360,23.94141003279680000000,Kampong Thom,
+21,Dong Phirun and Seng Naroth,2023-02-22,6:02,11:42,AM,5:40,7:20,A ,A​​ - B,north,NA,NA,544552,1459401,544050,1459906,Evergreen,Great Hornbill,Buceros bicornis,4,335,45,360,19.01782177833150000000,Kampong Thom,
+21,Dong Phirun and Seng Naroth,2023-02-22,13:03,16:29,PM,3:26,13:34,D,A - D,west,NA,NA,544552,1459401,544386,1458885,Evergreen,Great Hornbill,Buceros bicornis,2,35,33,90,18.92802239958450000000,Kampong Thom,
+21,Dong Phirun and Seng Naroth,2023-02-22,6:02,11:42,AM,5:40,NA,A ,NA,north,544052,1458901,544552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+21,Dong Phirun and Seng Naroth,2023-02-22,6:02,11:42,AM,5:40,NA,B,NA,east,544052,1459901,544552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+21,Dong Phirun and Seng Naroth,2023-02-22,6:02,11:42,AM,5:40,NA,C,NA,south,545052,1459901,544552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+21,Dong Phirun and Seng Naroth,2023-02-22,6:02,11:42,AM,5:40,NA,D ,NA,west,545052,1458901,544552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+21,Dong Phirun and Seng Naroth,2023-02-22,13:03,16:29,PM,3:26,NA,A ,NA,north,544052,1458901,544552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+21,Dong Phirun and Seng Naroth,2023-02-22,13:03,16:29,PM,3:26,NA,D ,NA,west,545052,1458901,544552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+21,Dong Phirun and Seng Naroth,2023-02-22,13:03,16:29,PM,3:26,NA,C ,NA,south,545052,1459901,544552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+21,Dong Phirun and Seng Naroth,2023-02-22,13:03,16:29,PM,3:26,NA,B ,NA,east,544052,1459901,544552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+21,Dong Phirun and Seng Naroth,2023-02-22,6:02,11:42,AM,5:40,8:21,B,B - C,east,NA,NA,544552,1459401,544785,1459917,Evergreen,Great Hornbill,Buceros bicornis,2,130,31,90,23.74737773668830000000,Kampong Thom,
+21,Dong Phirun and Seng Naroth,2023-02-22,6:02,11:42,AM,5:40,10:15,D ,D - A,west,NA,NA,544552,1459401,544400,1458881,Evergreen,Long-tailed macaque,Macaca fascicularis,7,175,45,270,3.92200842364462000000,Kampong Thom,
+21,Dong Phirun and Seng Naroth,2023-02-22,13:03,16:29,PM,3:26,14:22,C,D - C,south,NA,NA,544552,1459401,545044,1459177,Evergreen,Long-tailed macaque,Macaca fascicularis,5,30,39,360,19.50000000000000000000,Kampong Thom,
+22,"Hul Bora, Him Yul and Rot Polo",2023-02-22,6:07,11:39,AM,5:32,6:50,A ,A​​ - B,north,NA,NA,546552,1459401,545964,1459330,Evergreen,Green Peafowl,Pavo muticus,3,273,10,360,9.98629534754574000000,Kampong Thom,
+22,"Hul Bora, Him Yul and Rot Polo",2023-02-22,6:07,11:39,AM,5:32,8:12,B,B - C,east,NA,NA,546552,1459401,546704,1459914,Evergreen,Long-tailed macaque,Macaca fascicularis,9,16,53,90,14.60877985830100000000,Kampong Thom,
+22,"Hul Bora, Him Yul and Rot Polo",2023-02-22,6:07,11:39,AM,5:32,NA,A ,NA,north,546052,1458901,546552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+22,"Hul Bora, Him Yul and Rot Polo",2023-02-22,6:07,11:39,AM,5:32,NA,B,NA,east,546052,1459901,546552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+22,"Hul Bora, Him Yul and Rot Polo",2023-02-22,6:07,11:39,AM,5:32,NA,C,NA,south,547052,1459901,546552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+22,"Hul Bora, Him Yul and Rot Polo",2023-02-22,6:07,11:39,AM,5:32,NA,D ,NA,west,547052,1458901,546552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+22,"Hul Bora, Him Yul and Rot Polo",2023-02-22,13:06,16:49,PM,3:43,NA,A ,NA,north,546052,1458901,546552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+22,"Hul Bora, Him Yul and Rot Polo",2023-02-22,13:06,16:49,PM,3:43,NA,D ,NA,west,547052,1458901,546552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+22,"Hul Bora, Him Yul and Rot Polo",2023-02-22,13:06,16:49,PM,3:43,NA,C ,NA,south,547052,1459901,546552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+22,"Hul Bora, Him Yul and Rot Polo",2023-02-22,13:06,16:49,PM,3:43,NA,B ,NA,east,546052,1459901,546552,1459401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+22,"Hul Bora, Him Yul and Rot Polo",2023-02-22,13:06,16:49,PM,3:43,14:41,B,C - B,east,NA,NA,546552,1459401,547052,1459911,Evergreen,Long-tailed macaque,Macaca fascicularis,14,76,60,270,58.21774357655980000000,Kampong Thom,
+22,"Hul Bora, Him Yul and Rot Polo",2023-02-22,6:07,11:39,AM,5:32,10:57,D ,D - A,west,NA,NA,546552,1459401,546063,1458906,Evergreen,Pileated gibbon,Hylobates pileatus,4,150,75,270,37.50000000000000000000,Kampong Thom,
+23,"Heam Pheak, Theam Vichet ",2023-02-10,6:00,11:30,AM,5:30,6:54,A ,A​​ - B,north,NA,NA,551552,1460401,551020,1460610,Evergreen,Indochinese silvered langur,Trachypithecus germaini,2,60,10,360,8.66025403784439000000,Kampong Thom,
+23,"Heam Pheak, Theam Vichet ",2023-02-10,6:00,11:30,AM,5:30,NA,A ,NA,north,551052,1459901,551552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+23,"Heam Pheak, Theam Vichet ",2023-02-10,6:00,11:30,AM,5:30,NA,B,NA,east,551052,1460901,551552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+23,"Heam Pheak, Theam Vichet ",2023-02-10,6:00,11:30,AM,5:30,NA,C,NA,south,552052,1460901,551552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+23,"Heam Pheak, Theam Vichet ",2023-02-10,6:00,11:30,AM,5:30,NA,D,NA,west,552052,1459901,551552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+23,"Heam Pheak, Theam Vichet ",2023-02-10,13:00,16:27,PM,3:27,NA,A ,NA,north,551052,1459901,551552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+23,"Heam Pheak, Theam Vichet ",2023-02-10,13:00,16:27,PM,3:27,NA,D,NA,west,552052,1459901,551552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+23,"Heam Pheak, Theam Vichet ",2023-02-10,13:00,16:27,PM,3:27,NA,C,NA,south,552052,1460901,551552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+23,"Heam Pheak, Theam Vichet ",2023-02-10,13:00,16:27,PM,3:27,NA,B,NA,east,551052,1460901,551552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+23,"Heam Pheak, Theam Vichet ",2023-02-10,6:00,11:30,AM,5:30,7:51,B,B - C,east,NA,NA,551552,1460401,551213,1460868,Evergreen,Wild pig,Sus scrofa,2,130,27,90,20.68319996421240000000,Kampong Thom,
+23,"Heam Pheak, Theam Vichet ",2023-02-10,6:00,11:30,AM,5:30,9:37,C,C - D,south,NA,NA,551552,1460401,552107,1460115,Evergreen,Long-tailed macaque,Macaca fascicularis,5,165,15,180,3.88228567653782000000,Kampong Thom,
+23,"Heam Pheak, Theam Vichet ",2023-02-10,6:00,11:30,AM,5:30,10:06,D ,D - A,west,NA,NA,551552,1460401,551721,1456896,Evergreen,Wild pig,Sus scrofa,1,340,19,270,6.49838272318770000000,Kampong Thom,
+23,"Heam Pheak, Theam Vichet ",2023-02-10,13:00,16:27,PM,3:27,14:16,C,D - C,south,NA,NA,551552,1460401,552037,1460568,Evergreen,Great Hornbill,Buceros bicornis,1,160,40,360,13.68080573302680000000,Kampong Thom,
+24,Chea Nim and Chea Vanna,2023-02-11,6:04,11:35,AM,5:31,7:06,A ,A​​ - B,north,NA,NA,556552,1460401,556044,1460877,Evergreen,Wild pig,Sus scrofa,2,140,17,360,10.92738936467120000000,Kampong Thom,
+24,Chea Nim and Chea Vanna,2023-02-11,6:04,11:35,AM,5:31,NA,A ,NA,north,556052,1459901,556552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+24,Chea Nim and Chea Vanna,2023-02-11,6:04,11:35,AM,5:31,NA,B,NA,east,556052,1460901,556552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+24,Chea Nim and Chea Vanna,2023-02-11,6:04,11:35,AM,5:31,NA,C,NA,south,557052,1460901,556552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+24,Chea Nim and Chea Vanna,2023-02-11,6:04,11:35,AM,5:31,NA,D ,NA,west,557052,1459901,556552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+24,Chea Nim and Chea Vanna,2023-02-11,13:02,16:35,PM,3:33,NA,A ,NA,north,556052,1459901,556552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+24,Chea Nim and Chea Vanna,2023-02-11,13:02,16:35,PM,3:33,NA,D ,NA,west,557052,1459901,556552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+24,Chea Nim and Chea Vanna,2023-02-11,13:02,16:35,PM,3:33,NA,C ,NA,south,557052,1460901,556552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+24,Chea Nim and Chea Vanna,2023-02-11,13:02,16:35,PM,3:33,NA,B ,NA,east,556052,1460901,556552,1460401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+24,Chea Nim and Chea Vanna,2023-02-11,6:04,11:35,AM,5:31,7:40,B,B - C,east,NA,NA,556552,1460401,556111,1460901,Evergreen,Long-tailed macaque,Macaca fascicularis,4,80,35,90,34.46827135542730000000,Kampong Thom,
+25,Nov Soa and Chea Vanna,2023-02-23,6:00,11:37,AM,5:37,6:36,A ,A​​ - B,north,NA,NA,563552,1461401,563053,1461354,Evergreen,Great Hornbill,Buceros bicornis,2,40,20,360,12.85575219373080000000,Kampong Thom,
+25,Nov Soa and Chea Vanna,2023-02-23,6:00,11:37,AM,5:37,NA,A ,NA,north,563052,1460901,563552,1461401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+25,Nov Soa and Chea Vanna,2023-02-23,6:00,11:37,AM,5:37,NA,B,NA,east,563052,1461901,563552,1461401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+25,Nov Soa and Chea Vanna,2023-02-23,6:00,11:37,AM,5:37,NA,C,NA,south,564052,1461901,563552,1461401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+25,Nov Soa and Chea Vanna,2023-02-23,6:00,11:37,AM,5:37,NA,D ,NA,west,564052,1460901,563552,1461401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+25,Nov Soa and Chea Vanna,2023-02-23,13:00,16:30,PM,3:30,NA,A ,NA,north,563052,1460901,563552,1461401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+25,Nov Soa and Chea Vanna,2023-02-23,13:00,16:30,PM,3:30,NA,D ,NA,west,564052,1460901,563552,1461401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+25,Nov Soa and Chea Vanna,2023-02-23,13:00,16:30,PM,3:30,NA,C ,NA,south,564052,1461901,563552,1461401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+25,Nov Soa and Chea Vanna,2023-02-23,13:00,16:30,PM,3:30,NA,B ,NA,east,563052,1461901,563552,1461401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+25,Nov Soa and Chea Vanna,2023-02-23,6:00,11:37,AM,5:37,8:44,C,C - D,south,NA,NA,563552,1461401,564053,1461860,Evergreen,Pileated gibbon,Hylobates pileatus,2,230,20,180,15.32088886237960000000,Kampong Thom,
+26,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-13,6:03,11:31,AM,5:28,NA,A ,NA,north,543052,1461901,543552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+26,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-13,6:03,11:31,AM,5:28,NA,B,NA,east,543052,1462901,543552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+26,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-13,6:03,11:31,AM,5:28,NA,C,NA,south,544052,1462901,543552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+26,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-13,6:03,11:31,AM,5:28,NA,D ,NA,west,544052,1461901,543552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+26,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-13,13:00,16:30,PM,3:30,NA,A ,NA,north,543052,1461901,543552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+26,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-13,13:00,16:30,PM,3:30,NA,D ,NA,west,544052,1461901,543552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+26,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-13,13:00,16:30,PM,3:30,NA,C ,NA,south,544052,1462901,543552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+26,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-13,13:00,16:30,PM,3:30,NA,B ,NA,east,543052,1462901,543552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+26,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-13,6:03,11:31,AM,5:28,8:10,B,B - C,east,NA,NA,543552,1462401,543624,1462888,Evergreen,Pileated gibbon,Hylobates pileatus,1,90,30,90,30.00000000000000000000,Kampong Thom,
+26,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-13,6:03,11:31,AM,5:28,8:10,B,B - C,east,NA,NA,543552,1462401,543624,1462888,Evergreen,Pileated gibbon,Hylobates pileatus,1,200,39,90,13.33878558970110000000,Kampong Thom,
+26,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-13,6:03,11:31,AM,5:28,8:10,B,B - C,east,NA,NA,543552,1462401,543624,1462888,Evergreen,Pileated gibbon,Hylobates pileatus,2,350,62,90,10.76618701534970000000,Kampong Thom,
+27,Theam Vichet and Heam Pheak ,2023-02-12,6:00,11:30,AM,5:30,6:20,A ,A​​ - B,north,NA,NA,555552,1462401,555062,1461894,Evergreen,Wild pig,Sus scrofa,1,200,5,360,1.71010071662834000000,Kampong Thom,
+27,Theam Vichet and Heam Pheak ,2023-02-12,6:00,11:30,AM,5:30,7:06,A ,A​​ - B,north,NA,NA,555552,1462401,555045,1462914,Evergreen,Great Hornbill,Buceros bicornis,2,100,9,360,8.86326977710987000000,Kampong Thom,
+27,Theam Vichet and Heam Pheak ,2023-02-12,6:00,11:30,AM,5:30,NA,A ,NA,north,555052,1461901,555552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+27,Theam Vichet and Heam Pheak ,2023-02-12,6:00,11:30,AM,5:30,NA,B,NA,east,555052,1462901,555552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+27,Theam Vichet and Heam Pheak ,2023-02-12,6:00,11:30,AM,5:30,NA,C,NA,south,556052,1462901,555552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+27,Theam Vichet and Heam Pheak ,2023-02-12,6:00,11:30,AM,5:30,NA,D ,NA,west,556052,1461901,555552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+27,Theam Vichet and Heam Pheak ,2023-02-12,13:00,16:30,PM,3:30,NA,A ,NA,north,555052,1461901,555552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+27,Theam Vichet and Heam Pheak ,2023-02-12,13:00,16:30,PM,3:30,NA,D ,NA,west,556052,1461901,555552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+27,Theam Vichet and Heam Pheak ,2023-02-12,13:00,16:30,PM,3:30,NA,C ,NA,south,556052,1462901,555552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+27,Theam Vichet and Heam Pheak ,2023-02-12,13:00,16:30,PM,3:30,NA,B ,NA,east,555052,1462901,555552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+27,Theam Vichet and Heam Pheak ,2023-02-12,6:00,11:30,AM,5:30,8:59,B,B - C,east,NA,NA,555552,1462401,555676,1462999,Evergreen,Great Hornbill,Buceros bicornis,1,340,2,90,0.68404028665133700000,Kampong Thom,
+27,Theam Vichet and Heam Pheak ,2023-02-12,6:00,11:30,AM,5:30,10:20,C,C - D,south,NA,NA,555552,1462401,555814,1462869,Evergreen,Long-tailed macaque,Macaca fascicularis,2,65,3,180,2.71892336110995000000,Kampong Thom,
+27,Theam Vichet and Heam Pheak ,2023-02-12,6:00,11:30,AM,5:30,10:21,C,C - D,south,NA,NA,555552,1462401,555814,1462869,Evergreen,Great Hornbill,Buceros bicornis,1,65,3,180,2.71892336110995000000,Kampong Thom,
+28,Nov Soa and Chea Vanna ,2023-02-13,6:03,11:30,AM,5:27,6:21,A ,A​​ - B,north,NA,NA,557552,1462401,557032,1462194,Evergreen,Pileated gibbon,Hylobates pileatus,2,260,13,360,12.80250078915870000000,Kampong Thom,
+28,Nov Soa and Chea Vanna ,2023-02-13,13:00,16:27,PM,3:27,15:31,A ,B - A,south,NA,NA,557552,1462401,557007,1462537,Evergreen,Pileated gibbon,Hylobates pileatus,2,270,20,180,20.00000000000000000000,Kampong Thom,
+28,Nov Soa and Chea Vanna ,2023-02-13,6:03,11:30,AM,5:27,NA,A ,NA,north,557052,1461901,557552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+28,Nov Soa and Chea Vanna ,2023-02-13,6:03,11:30,AM,5:27,NA,B,NA,east,557052,1462901,557552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+28,Nov Soa and Chea Vanna ,2023-02-13,6:03,11:30,AM,5:27,NA,C,NA,south,558052,1462901,557552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+28,Nov Soa and Chea Vanna ,2023-02-13,6:03,11:30,AM,5:27,NA,D ,NA,west,558052,1461901,557552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+28,Nov Soa and Chea Vanna ,2023-02-13,13:00,16:27,PM,3:27,NA,A ,NA,north,557052,1461901,557552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+28,Nov Soa and Chea Vanna ,2023-02-13,13:00,16:27,PM,3:27,NA,D ,NA,west,558052,1461901,557552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+28,Nov Soa and Chea Vanna ,2023-02-13,13:00,16:27,PM,3:27,NA,C ,NA,south,558052,1462901,557552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+28,Nov Soa and Chea Vanna ,2023-02-13,13:00,16:27,PM,3:27,NA,B ,NA,east,557052,1462901,557552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+29,Theam Vichet and Heam Pheak,2023-02-22,6:00,11:30,AM,5:30,7:34,B,B - C,east,NA,NA,561552,1462401,560328,1461729,Evergreen,Pileated gibbon,Hylobates pileatus,4,225,17,90,12.02081528017130000000,Kampong Thom,
+29,Theam Vichet and Heam Pheak,2023-02-22,6:00,11:30,AM,5:30,7:43,B,B - C,east,NA,NA,561552,1462401,560328,1461729,Evergreen,Long-tailed macaque,Macaca fascicularis,5,210,20,90,10.00000000000000000000,Kampong Thom,
+29,Theam Vichet and Heam Pheak,2023-02-22,6:00,11:30,AM,5:30,7:54,B,B - C,east,NA,NA,561552,1462401,560328,1461729,Evergreen,Great Hornbill,Buceros bicornis,1,240,30,90,25.98076211353320000000,Kampong Thom,
+29,Theam Vichet and Heam Pheak,2023-02-22,6:00,11:30,AM,5:30,NA,A ,NA,north,561052,1461901,561552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+29,Theam Vichet and Heam Pheak,2023-02-22,6:00,11:30,AM,5:30,NA,B,NA,east,561052,1462901,561552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+29,Theam Vichet and Heam Pheak,2023-02-22,6:00,11:30,AM,5:30,NA,C,NA,south,562052,1462901,561552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+29,Theam Vichet and Heam Pheak,2023-02-22,6:00,11:30,AM,5:30,NA,D ,NA,west,562052,1461901,561552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+29,Theam Vichet and Heam Pheak,2023-02-22,13:00,16:35,PM,3:35,NA,A ,NA,north,561052,1461901,561552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+29,Theam Vichet and Heam Pheak,2023-02-22,13:00,16:35,PM,3:35,NA,D ,NA,west,562052,1461901,561552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+29,Theam Vichet and Heam Pheak,2023-02-22,13:00,16:35,PM,3:35,NA,C ,NA,south,562052,1462901,561552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+29,Theam Vichet and Heam Pheak,2023-02-22,13:00,16:35,PM,3:35,NA,B ,NA,east,561052,1462901,561552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+30,"Chhay Lay, Nov Soa and Ly Narong",2023-04-23,13:00,16:31,PM,3:31,13:20,D,A - D,west,NA,NA,567552,1462401,568977,1463381,Evergreen,Great Hornbill,Buceros bicornis,2,20,34,90,11.62868487307270000000,Stung Treng,
+30,"Chhay Lay, Nov Soa and Ly Narong",2023-04-23,6:00,11:40,AM,5:40,NA,A ,NA,north,567052,1461901,567552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+30,"Chhay Lay, Nov Soa and Ly Narong",2023-04-23,6:00,11:40,AM,5:40,NA,B,NA,east,567052,1462901,567552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+30,"Chhay Lay, Nov Soa and Ly Narong",2023-04-23,6:00,11:40,AM,5:40,NA,C,NA,south,568052,1462901,567552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+30,"Chhay Lay, Nov Soa and Ly Narong",2023-04-23,6:00,11:40,AM,5:40,NA,D ,NA,west,568052,1461901,567552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+30,"Chhay Lay, Nov Soa and Ly Narong",2023-04-23,13:00,16:31,PM,3:31,NA,A ,NA,north,567052,1461901,567552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+30,"Chhay Lay, Nov Soa and Ly Narong",2023-04-23,13:00,16:31,PM,3:31,NA,D ,NA,west,568052,1461901,567552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+30,"Chhay Lay, Nov Soa and Ly Narong",2023-04-23,13:00,16:31,PM,3:31,NA,C ,NA,south,568052,1462901,567552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+31,"Nov Soa, Chea Vanna and Heng Rith",2023-02-20,6:00,11:36,AM,5:36,NA,A ,NA,north,581052,1461901,581552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+31,"Nov Soa, Chea Vanna and Heng Rith",2023-02-20,6:00,11:36,AM,5:36,NA,B,NA,east,581052,1462901,581552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+31,"Nov Soa, Chea Vanna and Heng Rith",2023-02-20,6:00,11:36,AM,5:36,NA,C,NA,south,582052,1462901,581552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+31,"Nov Soa, Chea Vanna and Heng Rith",2023-02-20,6:00,11:36,AM,5:36,NA,D ,NA,west,582052,1461901,581552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+31,"Nov Soa, Chea Vanna and Heng Rith",2023-02-20,13:00,16:26,PM,3:26,NA,A ,NA,north,581052,1461901,581552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+31,"Nov Soa, Chea Vanna and Heng Rith",2023-02-20,13:00,16:26,PM,3:26,NA,D ,NA,west,582052,1461901,581552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+31,"Nov Soa, Chea Vanna and Heng Rith",2023-02-20,13:00,16:26,PM,3:26,NA,C ,NA,south,582052,1462901,581552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+31,"Nov Soa, Chea Vanna and Heng Rith",2023-02-20,13:00,16:26,PM,3:26,NA,B ,NA,east,581052,1462901,581552,1462401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+32,"Heam Pheak, Theam Vichet and Preah Sopheak",2023-04-22,6:00,11:30,AM,5:30,8:12,B,B - C,east,NA,NA,573552,1463401,573768,1463912,Evergreen,Great Hornbill,Buceros bicornis,1,180,20,90,0.00000000000000244929,Stung Treng,
+32,"Heam Pheak, Theam Vichet and Preah Sopheak",2023-04-22,6:00,11:30,AM,5:30,NA,A ,NA,north,573052,1462901,573552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+32,"Heam Pheak, Theam Vichet and Preah Sopheak",2023-04-22,6:00,11:30,AM,5:30,NA,B,NA,east,573052,1463901,573552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+32,"Heam Pheak, Theam Vichet and Preah Sopheak",2023-04-22,6:00,11:30,AM,5:30,NA,C,NA,south,574052,1463901,573552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+32,"Heam Pheak, Theam Vichet and Preah Sopheak",2023-04-22,6:00,11:30,AM,5:30,NA,D ,NA,west,574052,1462901,573552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+32,"Heam Pheak, Theam Vichet and Preah Sopheak",2023-04-22,13:00,16:40,PM,3:40,NA,A ,NA,north,573052,1462901,573552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+32,"Heam Pheak, Theam Vichet and Preah Sopheak",2023-04-22,13:00,16:40,PM,3:40,NA,D ,NA,west,574052,1462901,573552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+32,"Heam Pheak, Theam Vichet and Preah Sopheak",2023-04-22,13:00,16:40,PM,3:40,NA,C ,NA,south,574052,1463901,573552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+32,"Heam Pheak, Theam Vichet and Preah Sopheak",2023-04-22,13:00,16:40,PM,3:40,NA,B ,NA,east,573052,1463901,573552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+33,Chhay Lay and Srey Ratana,2023-03-19,6:00,11:38,AM,5:38,7:43,B,B - C,east,NA,NA,588552,1463401,588615,1463882,Evergreen,Great Hornbill,Buceros bicornis,1,330,46,90,23.00000000000000000000,Stung Treng,
+33,Chhay Lay and Srey Ratana,2023-03-19,6:00,11:38,AM,5:38,NA,A ,NA,north,588052,1462901,588552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+33,Chhay Lay and Srey Ratana,2023-03-19,6:00,11:38,AM,5:38,NA,B,NA,east,588052,1463901,588552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+33,Chhay Lay and Srey Ratana,2023-03-19,6:00,11:38,AM,5:38,NA,C,NA,south,589052,1463901,588552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+33,Chhay Lay and Srey Ratana,2023-03-19,6:00,11:38,AM,5:38,NA,D ,NA,west,589052,1462901,588552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+33,Chhay Lay and Srey Ratana,2023-03-19,13:00,16:30,PM,3:30,NA,A ,NA,north,588052,1462901,588552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+33,Chhay Lay and Srey Ratana,2023-03-19,13:00,16:30,PM,3:30,NA,D ,NA,west,589052,1462901,588552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+33,Chhay Lay and Srey Ratana,2023-03-19,13:00,16:30,PM,3:30,NA,C ,NA,south,589052,1463901,588552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+33,Chhay Lay and Srey Ratana,2023-03-19,13:00,16:30,PM,3:30,NA,B ,NA,east,588052,1463901,588552,1463401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+33,Chhay Lay and Srey Ratana,2023-03-19,13:00,16:30,PM,3:30,14:58,B,C - B,east,NA,NA,588552,1463401,588356,1463873,Evergreen,Great Hornbill,Buceros bicornis,2,313,9,270,6.58218331457253000000,Stung Treng,
+34,Theam Vichet and Heam Pheak,2023-03-18,6:00,11:30,AM,5:30,6:40,A ,A​​ - B,north,NA,NA,578552,1464401,579157,1465048,Evergreen,Pileated gibbon,Hylobates pileatus,2,80,26,360,25.60500157831740000000,Stung Treng,
+34,Theam Vichet and Heam Pheak,2023-03-18,6:00,11:30,AM,5:30,8:25,B,B - C,east,NA,NA,578552,1464401,578840,1464914,Evergreen,Wild pig,Sus scrofa,1,320,8,90,5.14230087749232000000,Stung Treng,
+34,Theam Vichet and Heam Pheak,2023-03-18,6:00,11:30,AM,5:30,NA,A ,NA,north,578052,1463901,578552,1464401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+34,Theam Vichet and Heam Pheak,2023-03-18,6:00,11:30,AM,5:30,NA,B,NA,east,578052,1464901,578552,1464401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+34,Theam Vichet and Heam Pheak,2023-03-18,6:00,11:30,AM,5:30,10:40,C,NA,south,579052,1464901,578552,1464401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+34,Theam Vichet and Heam Pheak,2023-03-18,6:00,11:30,AM,5:30,10:40,D ,NA,west,579052,1463901,578552,1464401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+34,Theam Vichet and Heam Pheak,2023-03-18,13:00,16:30,PM,3:30,NA,A ,NA,north,578052,1463901,578552,1464401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+34,Theam Vichet and Heam Pheak,2023-03-18,13:00,16:30,PM,3:30,NA,D ,NA,west,579052,1463901,578552,1464401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+34,Theam Vichet and Heam Pheak,2023-03-18,13:00,16:30,PM,3:30,NA,C ,NA,south,579052,1464901,578552,1464401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+34,Theam Vichet and Heam Pheak,2023-03-18,13:00,16:30,PM,3:30,NA,B ,NA,east,578052,1464901,578552,1464401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+34,Theam Vichet and Heam Pheak,2023-03-18,6:00,11:30,AM,5:30,9:40,C,C - D,south,NA,NA,578552,1464401,579018,1464350,Evergreen,Great Hornbill,Buceros bicornis,2,20,10,180,3.42020143325669000000,Stung Treng,
+34,Theam Vichet and Heam Pheak,2023-03-18,6:00,11:30,AM,5:30,10:40,D ,D - A,west,NA,NA,578552,1464401,578546,1463869,Evergreen,Pileated gibbon,Hylobates pileatus,2,210,20,270,10.00000000000000000000,Stung Treng,
+35,"Lon Sopheanna, Chhay Lay and Chey Chet",2023-03-17,6:00,11:40,AM,5:40,7:14,A ,A​​ - B,north,NA,NA,594552,1464401,594057,1464725,Semi-evergreen,Pileated gibbon,Hylobates pileatus,2,50,52,360,39.83431104218690000000,Stung Treng,
+35,"Lon Sopheanna, Chhay Lay and Chey Chet",2023-03-17,6:00,11:40,AM,5:40,7:42,B,B - C,east,NA,NA,594552,1464401,594290,1464901,Semi-evergreen,Pileated gibbon,Hylobates pileatus,1,156,60,90,24.40419858454800000000,Stung Treng,
+35,"Lon Sopheanna, Chhay Lay and Chey Chet",2023-03-17,6:00,11:40,AM,5:40,NA,A ,NA,north,594052,1463901,594552,1464401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+35,"Lon Sopheanna, Chhay Lay and Chey Chet",2023-03-17,6:00,11:40,AM,5:40,NA,B,NA,east,594052,1464901,594552,1464401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+35,"Lon Sopheanna, Chhay Lay and Chey Chet",2023-03-17,6:00,11:40,AM,5:40,NA,C,NA,south,595052,1464901,594552,1464401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+35,"Lon Sopheanna, Chhay Lay and Chey Chet",2023-03-17,6:00,11:40,AM,5:40,NA,D ,NA,west,595052,1463901,594552,1464401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+35,"Lon Sopheanna, Chhay Lay and Chey Chet",2023-03-17,13:00,16:40,PM,3:40,NA,A ,NA,north,594052,1463901,594552,1464401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+35,"Lon Sopheanna, Chhay Lay and Chey Chet",2023-03-17,13:00,16:40,PM,3:40,NA,D ,NA,west,595052,1463901,594552,1464401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+35,"Lon Sopheanna, Chhay Lay and Chey Chet",2023-03-17,13:00,16:40,PM,3:40,NA,C ,NA,south,595052,1464901,594552,1464401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+35,"Lon Sopheanna, Chhay Lay and Chey Chet",2023-03-17,13:00,16:40,PM,3:40,NA,B ,NA,east,594052,1464901,594552,1464401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+36,Heam Pheak and Theam Vichet,2023-02-25,6:00,11:30,AM,5:30,9:29,A ,A​​ - B,north,NA,NA,561552,1465401,561040,1465573,Evergreen,Great Hornbill,Buceros bicornis,1,230,30,360,22.98133329356930000000,Kampong Thom,
+36,Heam Pheak and Theam Vichet,2023-02-25,6:00,11:30,AM,5:30,7:31,B,B - C,east,NA,NA,561552,1465401,561242,1465950,Evergreen,Wild pig,Sus scrofa,1,90,20,90,20.00000000000000000000,Kampong Thom,
+36,Heam Pheak and Theam Vichet,2023-02-25,6:00,11:30,AM,5:30,NA,A ,NA,north,561052,1464901,561552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+36,Heam Pheak and Theam Vichet,2023-02-25,6:00,11:30,AM,5:30,NA,B,NA,east,561052,1465901,561552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+36,Heam Pheak and Theam Vichet,2023-02-25,6:00,11:30,AM,5:30,NA,C,NA,south,562052,1465901,561552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+36,Heam Pheak and Theam Vichet,2023-02-25,6:00,11:30,AM,5:30,NA,D ,NA,west,562052,1464901,561552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+36,Heam Pheak and Theam Vichet,2023-02-25,13:00,16:24,PM,3:24,NA,A ,NA,north,561052,1464901,561552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+36,Heam Pheak and Theam Vichet,2023-02-25,13:00,16:24,PM,3:24,NA,D ,NA,west,562052,1464901,561552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+36,Heam Pheak and Theam Vichet,2023-02-25,13:00,16:24,PM,3:24,NA,C ,NA,south,562052,1465901,561552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+36,Heam Pheak and Theam Vichet,2023-02-25,13:00,16:24,PM,3:24,NA,B ,NA,east,561052,1465901,561552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+36,Heam Pheak and Theam Vichet,2023-02-25,6:00,11:30,AM,5:30,10:41,D ,D - A,west,NA,NA,561552,1465401,561426,1464897,Evergreen,Wild pig,Sus scrofa,1,210,9,270,4.50000000000000000000,Kampong Thom,
+37,Lon Sopheanna and Chea Vanna,2023-04-25,6:00,11:35,AM,5:35,6:40,A ,A​​ - B,north,NA,NA,584552,1465401,584025,1465129,Evergreen,Indochinese silvered langur,Trachypithecus germaini,15,310,30,360,22.98133329356930000000,Stung Treng,
+37,Lon Sopheanna and Chea Vanna,2023-04-25,13:00,16:45,PM,3:45,13:20,D,A - D,west,NA,NA,584552,1465401,584393,1464952,Evergreen,Great Hornbill,Buceros bicornis,1,40,15,90,9.64181414529809000000,Stung Treng,
+37,Lon Sopheanna and Chea Vanna,2023-04-25,6:00,11:35,AM,5:35,9:00,B,B - C,east,NA,NA,584552,1465401,584850,1465875,Evergreen,Great Hornbill,Buceros bicornis,2,128,12,90,9.45612904328067000000,Stung Treng,
+37,Lon Sopheanna and Chea Vanna,2023-04-25,6:00,11:35,AM,5:35,NA,A ,NA,north,584052,1464901,584552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+37,Lon Sopheanna and Chea Vanna,2023-04-25,6:00,11:35,AM,5:35,NA,B,NA,east,584052,1465901,584552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+37,Lon Sopheanna and Chea Vanna,2023-04-25,6:00,11:35,AM,5:35,NA,C,NA,south,585052,1465901,584552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+37,Lon Sopheanna and Chea Vanna,2023-04-25,6:00,11:35,AM,5:35,NA,D ,NA,west,585052,1464901,584552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+37,Lon Sopheanna and Chea Vanna,2023-04-25,13:00,16:45,PM,3:45,NA,A ,NA,north,584052,1464901,584552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+37,Lon Sopheanna and Chea Vanna,2023-04-25,13:00,16:45,PM,3:45,NA,D ,NA,west,585052,1464901,584552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+37,Lon Sopheanna and Chea Vanna,2023-04-25,13:00,16:45,PM,3:45,NA,C ,NA,south,585052,1465901,584552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+37,Lon Sopheanna and Chea Vanna,2023-04-25,13:00,16:45,PM,3:45,NA,B ,NA,east,584052,1465901,584552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+38,"Chey Chet, Lon Sopheanna and Chhay Lay",2023-03-21,6:05,11:45,AM,5:40,7:10,A ,A​​ - B,north,NA,NA,587552,1465401,587087,1465684,Evergreen,Pileated gibbon,Hylobates pileatus,1,304,50,360,41.45187862775210000000,Stung Treng,
+38,"Chey Chet, Lon Sopheanna and Chhay Lay",2023-03-21,6:05,11:45,AM,5:40,NA,A ,NA,north,587052,1464901,587552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+38,"Chey Chet, Lon Sopheanna and Chhay Lay",2023-03-21,6:05,11:45,AM,5:40,NA,B,NA,east,587052,1465901,587552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+38,"Chey Chet, Lon Sopheanna and Chhay Lay",2023-03-21,6:05,11:45,AM,5:40,NA,C,NA,south,588052,1465901,587552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+38,"Chey Chet, Lon Sopheanna and Chhay Lay",2023-03-21,6:05,11:45,AM,5:40,NA,D ,NA,west,588052,1464901,587552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+38,"Chey Chet, Lon Sopheanna and Chhay Lay",2023-03-21,13:00,16:30,PM,3:30,NA,A ,NA,north,587052,1464901,587552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+38,"Chey Chet, Lon Sopheanna and Chhay Lay",2023-03-21,13:00,16:30,PM,3:30,NA,D ,NA,west,588052,1464901,587552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+38,"Chey Chet, Lon Sopheanna and Chhay Lay",2023-03-21,13:00,16:30,PM,3:30,NA,C ,NA,south,588052,1465901,587552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+38,"Chey Chet, Lon Sopheanna and Chhay Lay",2023-03-21,13:00,16:30,PM,3:30,NA,B ,NA,east,587052,1465901,587552,1465401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+38,"Chey Chet, Lon Sopheanna and Chhay Lay",2023-03-21,6:05,11:45,AM,5:40,11:05,D ,D - A,west,NA,NA,587552,1465401,587218,1464941,Evergreen,Pileated gibbon,Hylobates pileatus,1,298,24,270,21.19074222861430000000,Stung Treng,
+39,Nov Soa and Chea Nim,2023-02-09,6:03,11:37,AM,5:34,6:07,A ,A​​ - B,north,NA,NA,551552,1466401,551053,1465933,Evergreen,Great Hornbill,Buceros bicornis,1,330,15,270,7.50000000000001000000,Kampong Thom,
+39,Nov Soa and Chea Nim,2023-02-09,6:03,11:37,AM,5:34,7:05,A ,A​​ - B,north,NA,NA,551552,1466401,550988,1466487,Evergreen,Long-tailed macaque,Macaca fascicularis,4,208,30,270,14.08414688357670000000,Kampong Thom,
+39,Nov Soa and Chea Nim,2023-02-09,6:03,11:37,AM,5:34,NA,A ,NA,north,551052,1465901,551552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+39,Nov Soa and Chea Nim,2023-02-09,6:03,11:37,AM,5:34,NA,B,NA,east,551052,1466901,551552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+39,Nov Soa and Chea Nim,2023-02-09,6:03,11:37,AM,5:34,NA,C,NA,south,552052,1466901,551552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+39,Nov Soa and Chea Nim,2023-02-09,6:03,11:37,AM,5:34,NA,D ,NA,west,552052,1465901,551552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+39,Nov Soa and Chea Nim,2023-02-09,13:06,16:45,PM,3:39,NA,A ,NA,north,551052,1465901,551552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+39,Nov Soa and Chea Nim,2023-02-09,13:06,16:45,PM,3:39,NA,D ,NA,west,552052,1465901,551552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+39,Nov Soa and Chea Nim,2023-02-09,13:06,16:45,PM,3:39,NA,C ,NA,south,552052,1466901,551552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+39,Nov Soa and Chea Nim,2023-02-09,13:06,16:45,PM,3:39,NA,B ,NA,east,551052,1466901,551552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+39,Nov Soa and Chea Nim,2023-02-09,6:03,11:37,AM,5:34,8:07,B,B - C,east,NA,NA,551552,1466401,551971,1466917,Evergreen,Great Hornbill,Buceros bicornis,2,330,25,90,12.50000000000000000000,Kampong Thom,
+39,Nov Soa and Chea Nim,2023-02-09,6:03,11:37,AM,5:34,10:02,D ,D - A,west,NA,NA,551552,1466401,551900,1465890,Evergreen,Pileated gibbon,Hylobates pileatus,1,300,30,270,25.98076211353320000000,Kampong Thom,
+40,"Theam Vichet, Heam Pheak and Preah Sopheak",2023-04-24,6:02,11:40,AM,5:38,6:55,A ,A​​ - B,north,NA,NA,568552,1466401,568976,1466635,Evergreen,Great Hornbill,Buceros bicornis,1,170,17,360,2.95201902033781000000,Stung Treng,
+40,"Theam Vichet, Heam Pheak and Preah Sopheak",2023-04-24,6:02,11:40,AM,5:38,7:37,B,B - C,east,NA,NA,568552,1466401,568054,1466901,Evergreen,Wild pig,Sus scrofa,1,225,30,90,21.21320343559640000000,Stung Treng,
+40,"Theam Vichet, Heam Pheak and Preah Sopheak",2023-04-24,6:02,11:40,AM,5:38,NA,A ,NA,north,568052,1465901,568552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+40,"Theam Vichet, Heam Pheak and Preah Sopheak",2023-04-24,6:02,11:40,AM,5:38,NA,B,NA,east,568052,1466901,568552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+40,"Theam Vichet, Heam Pheak and Preah Sopheak",2023-04-24,6:02,11:40,AM,5:38,NA,C,NA,south,569052,1466901,568552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+40,"Theam Vichet, Heam Pheak and Preah Sopheak",2023-04-24,6:02,11:40,AM,5:38,NA,D ,NA,west,569052,1465901,568552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+40,"Theam Vichet, Heam Pheak and Preah Sopheak",2023-04-24,13:00,16:35,PM,3:35,NA,A ,NA,north,568052,1465901,568552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+40,"Theam Vichet, Heam Pheak and Preah Sopheak",2023-04-24,13:00,16:35,PM,3:35,NA,D ,NA,west,569052,1465901,568552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+40,"Theam Vichet, Heam Pheak and Preah Sopheak",2023-04-24,13:00,16:35,PM,3:35,NA,C ,NA,south,569052,1466901,568552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+40,"Theam Vichet, Heam Pheak and Preah Sopheak",2023-04-24,13:00,16:35,PM,3:35,NA,B ,NA,east,568052,1466901,568552,1466401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+41,"Lon Sopheanna, Chey Chet and Prak Sina",2023-02-13,6:03,11:45,AM,5:42,NA,A ,NA,north,541052,1466901,541552,1467401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+41,"Lon Sopheanna, Chey Chet and Prak Sina",2023-02-13,6:03,11:45,AM,5:42,NA,B,NA,east,541052,1467901,541552,1467401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+41,"Lon Sopheanna, Chey Chet and Prak Sina",2023-02-13,6:03,11:45,AM,5:42,NA,C,NA,south,542052,1467901,541552,1467401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+41,"Lon Sopheanna, Chey Chet and Prak Sina",2023-02-13,6:03,11:45,AM,5:42,NA,D ,NA,west,542052,1466901,541552,1467401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+41,"Lon Sopheanna, Chey Chet and Prak Sina",2023-02-13,13:00,16:40,PM,3:40,NA,A ,NA,north,541052,1466901,541552,1467401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+41,"Lon Sopheanna, Chey Chet and Prak Sina",2023-02-13,13:00,16:40,PM,3:40,NA,D ,NA,west,542052,1466901,541552,1467401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+41,"Lon Sopheanna, Chey Chet and Prak Sina",2023-02-13,13:00,16:40,PM,3:40,NA,C ,NA,south,542052,1467901,541552,1467401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+41,"Lon Sopheanna, Chey Chet and Prak Sina",2023-02-13,13:00,16:40,PM,3:40,NA,B ,NA,east,541052,1467901,541552,1467401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+42,Nov Soa and Chea Vanna,2023-02-26,6:00,11:37,AM,5:37,NA,A ,NA,north,555052,1467901,555552,1468401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+42,Nov Soa and Chea Vanna,2023-02-26,6:00,11:37,AM,5:37,NA,B,NA,east,555052,1468901,555552,1468401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+42,Nov Soa and Chea Vanna,2023-02-26,6:00,11:37,AM,5:37,NA,C,NA,south,556052,1468901,555552,1468401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+42,Nov Soa and Chea Vanna,2023-02-26,6:00,11:37,AM,5:37,NA,D ,NA,west,556052,1467901,555552,1468401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+42,Nov Soa and Chea Vanna,2023-02-26,13:00,16:41,PM,3:41,NA,A ,NA,north,555052,1467901,555552,1468401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+42,Nov Soa and Chea Vanna,2023-02-26,13:00,16:41,PM,3:41,NA,D ,NA,west,556052,1467901,555552,1468401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+42,Nov Soa and Chea Vanna,2023-02-26,13:00,16:41,PM,3:41,NA,C ,NA,south,556052,1468901,555552,1468401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+42,Nov Soa and Chea Vanna,2023-02-26,13:00,16:41,PM,3:41,NA,B ,NA,east,555052,1468901,555552,1468401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+43,Lon Sopheanna and Chey Chet,2023-04-23,6:07,11:40,AM,5:33,6:10,A ,A​​ - B,north,NA,NA,584552,1469401,584066,1468925,Evergreen,Great Hornbill,Buceros bicornis,2,114,60,360,54.81272745855610000000,Stung Treng,
+43,Lon Sopheanna and Chey Chet,2023-04-23,6:07,11:40,AM,5:33,NA,A ,NA,north,584052,1468901,584552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+43,Lon Sopheanna and Chey Chet,2023-04-23,6:07,11:40,AM,5:33,NA,B,NA,east,584052,1469901,584552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+43,Lon Sopheanna and Chey Chet,2023-04-23,6:07,11:40,AM,5:33,NA,C,NA,south,585052,1469901,584552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+43,Lon Sopheanna and Chey Chet,2023-04-23,6:07,11:40,AM,5:33,NA,D ,NA,west,585052,1468901,584552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+43,Lon Sopheanna and Chey Chet,2023-04-23,13:00,16:35,PM,3:35,NA,A ,NA,north,584052,1468901,584552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+43,Lon Sopheanna and Chey Chet,2023-04-23,13:00,16:35,PM,3:35,NA,D ,NA,west,585052,1468901,584552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+43,Lon Sopheanna and Chey Chet,2023-04-23,13:00,16:35,PM,3:35,NA,C ,NA,south,585052,1469901,584552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+43,Lon Sopheanna and Chey Chet,2023-04-23,13:00,16:35,PM,3:35,NA,B ,NA,east,584052,1469901,584552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+44,"Khiev Kimnannara, Srey Ratana and Chim Chanbunthoeurn",2023-03-15,6:05,11:30,AM,5:25,7:58,A ,A​​ - B,north,NA,NA,594552,1469401,594053,1469337,DDF,Great Hornbill,Buceros bicornis,1,60,24,360,20.78460969082650000000,Stung Treng,
+44,"Khiev Kimnannara, Srey Ratana and Chim Chanbunthoeurn",2023-03-15,6:05,11:30,AM,5:25,NA,A ,NA,north,594052,1468901,594552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+44,"Khiev Kimnannara, Srey Ratana and Chim Chanbunthoeurn",2023-03-15,6:05,11:30,AM,5:25,NA,B,NA,east,594052,1469901,594552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+44,"Khiev Kimnannara, Srey Ratana and Chim Chanbunthoeurn",2023-03-15,6:05,11:30,AM,5:25,NA,C,NA,south,595052,1469901,594552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+44,"Khiev Kimnannara, Srey Ratana and Chim Chanbunthoeurn",2023-03-15,6:05,11:30,AM,5:25,NA,D ,NA,west,595052,1468901,594552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+44,"Khiev Kimnannara, Srey Ratana and Chim Chanbunthoeurn",2023-03-15,13:05,16:40,PM,3:35,NA,A ,NA,north,594052,1468901,594552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+44,"Khiev Kimnannara, Srey Ratana and Chim Chanbunthoeurn",2023-03-15,13:05,16:40,PM,3:35,NA,D ,NA,west,595052,1468901,594552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+44,"Khiev Kimnannara, Srey Ratana and Chim Chanbunthoeurn",2023-03-15,13:05,16:40,PM,3:35,NA,C ,NA,south,595052,1469901,594552,1469401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+44,"Khiev Kimnannara, Srey Ratana and Chim Chanbunthoeurn",2023-03-15,13:05,16:40,PM,3:35,NA,B ,NA,east,594052,1469901,594552,1469401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+44,"Khiev Kimnannara, Srey Ratana and Chim Chanbunthoeurn",2023-03-15,6:05,11:30,AM,5:25,10:20,D ,D - A,west,NA,NA,594552,1469401,594520,1468877,Evergreen,Wild pig,Sus scrofa,5,200,27,270,9.23454386979305000000,Stung Treng,
+45,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-22,6:00,11:33,AM,5:33,8:10,B,B - C,east,NA,NA,546552,1471401,547031,1471899,Evergreen,Indochinese silvered langur,Trachypithecus germaini,5,80,22,90,21.66577056626860000000,Kampong Thom,
+45,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-22,6:00,11:33,AM,5:33,NA,A ,NA,north,546052,1470901,546552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+45,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-22,6:00,11:33,AM,5:33,NA,B,NA,east,546052,1471901,546552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+45,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-22,6:00,11:33,AM,5:33,NA,C,NA,south,547052,1471901,546552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+45,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-22,6:00,11:33,AM,5:33,NA,D ,NA,west,547052,1470901,546552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+45,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-22,13:00,16:39,PM,3:39,NA,A ,NA,north,546052,1470901,546552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+45,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-22,13:00,16:39,PM,3:39,NA,D ,NA,west,547052,1470901,546552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+45,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-22,13:00,16:39,PM,3:39,NA,C ,NA,south,547052,1471901,546552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+45,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-22,13:00,16:39,PM,3:39,NA,B ,NA,east,546052,1471901,546552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+45,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-22,6:00,11:33,AM,5:33,9:06,C,C - D,south,NA,NA,546552,1471401,547062,1471292,Evergreen,Great Hornbill,Buceros bicornis,1,81,21,180,20.74145515249790000000,Kampong Thom,
+46,"Dong Phirun, Khorn Doeurn and Thang Vireak",2023-04-23,6:02,11:33,AM,5:31,8:21,B,B - C,east,NA,NA,560552,1471401,560984,1471914,Evergreen,Long-tailed macaque,Macaca fascicularis,5,10,75,90,13.02361332501980000000,Stung Treng,
+46,"Dong Phirun, Khorn Doeurn and Thang Vireak",2023-04-23,6:02,11:33,AM,5:31,8:51,C,C - D,south,NA,NA,560552,1471401,561055,1471906,Evergreen,Pileated gibbon,Hylobates pileatus,2,120,80,180,69.28203230275510000000,Stung Treng,
+46,"Dong Phirun, Khorn Doeurn and Thang Vireak",2023-04-23,6:02,11:33,AM,5:31,NA,A ,NA,north,560052,1470901,560552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+46,"Dong Phirun, Khorn Doeurn and Thang Vireak",2023-04-23,6:02,11:33,AM,5:31,NA,B,NA,east,560052,1471901,560552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+46,"Dong Phirun, Khorn Doeurn and Thang Vireak",2023-04-23,6:02,11:33,AM,5:31,NA,C,NA,south,561052,1471901,560552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+46,"Dong Phirun, Khorn Doeurn and Thang Vireak",2023-04-23,6:02,11:33,AM,5:31,NA,D ,NA,west,561052,1470901,560552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+46,"Dong Phirun, Khorn Doeurn and Thang Vireak",2023-04-23,13:00,16:37,PM,3:37,NA,A ,NA,north,560052,1470901,560552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+46,"Dong Phirun, Khorn Doeurn and Thang Vireak",2023-04-23,13:00,16:37,PM,3:37,NA,D ,NA,west,561052,1470901,560552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+46,"Dong Phirun, Khorn Doeurn and Thang Vireak",2023-04-23,13:00,16:37,PM,3:37,NA,C ,NA,south,561052,1471901,560552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+46,"Dong Phirun, Khorn Doeurn and Thang Vireak",2023-04-23,13:00,16:37,PM,3:37,NA,B ,NA,east,560052,1471901,560552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+47,Heam Pheak and Theam Vichet,2023-03-16,6:00,11:30,AM,5:30,6:44,A ,A​​ - B,north,NA,NA,579552,1471401,579053,1471369,Evergreen,Wild pig,Sus scrofa,1,300,10,360,8.66025403784439000000,Stung Treng,
+47,Heam Pheak and Theam Vichet,2023-03-16,6:00,11:30,AM,5:30,NA,A ,NA,north,579052,1470901,579552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+47,Heam Pheak and Theam Vichet,2023-03-16,6:00,11:30,AM,5:30,NA,B,NA,east,579052,1471901,579552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+47,Heam Pheak and Theam Vichet,2023-03-16,6:00,11:30,AM,5:30,NA,C,NA,south,580052,1471901,579552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+47,Heam Pheak and Theam Vichet,2023-03-16,6:00,11:30,AM,5:30,NA,D ,NA,west,580052,1470901,579552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+47,Heam Pheak and Theam Vichet,2023-03-16,13:00,16:24,PM,3:24,NA,A ,NA,north,579052,1470901,579552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+47,Heam Pheak and Theam Vichet,2023-03-16,13:00,16:24,PM,3:24,NA,D ,NA,west,580052,1470901,579552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+47,Heam Pheak and Theam Vichet,2023-03-16,13:00,16:24,PM,3:24,NA,C ,NA,south,580052,1471901,579552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+47,Heam Pheak and Theam Vichet,2023-03-16,13:00,16:24,PM,3:24,NA,B ,NA,east,579052,1471901,579552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,6:00,11:41,AM,5:41,6:08,A ,A​​ - B,north,NA,NA,586552,1471401,586029,1471030,Evergreen,Great Hornbill,Buceros bicornis,1,225,40,360,28.28427124746190000000,Stung Treng,
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,6:00,11:41,AM,5:41,6:10,A ,A​​ - B,north,NA,NA,586552,1471401,586029,1471030,Evergreen,Pileated gibbon,Hylobates pileatus,2,30,64,360,32.00000000000000000000,Stung Treng,
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,6:00,11:41,AM,5:41,6:11,A ,A​​ - B,north,NA,NA,586552,1471401,586029,1471030,Evergreen,Great Hornbill,Buceros bicornis,2,350,15,360,2.60472266500396000000,Stung Treng,
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,6:00,11:41,AM,5:41,6:48,A ,A​​ - B,north,NA,NA,586552,1471401,586076,1471696,Evergreen,Great Hornbill,Buceros bicornis,2,338,68,360,25.47324835228200000000,Stung Treng,
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,6:00,11:41,AM,5:41,NA,A ,NA,north,586052,1470901,586552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,6:00,11:41,AM,5:41,NA,B,NA,east,586052,1471901,586552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,6:00,11:41,AM,5:41,NA,C,NA,south,587052,1471901,586552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,6:00,11:41,AM,5:41,NA,D ,NA,west,587052,1470901,586552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,13:00,16:45,PM,3:45,NA,A ,NA,north,586052,1470901,586552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,13:00,16:45,PM,3:45,NA,D ,NA,west,587052,1470901,586552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,13:00,16:45,PM,3:45,NA,C ,NA,south,587052,1471901,586552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,13:00,16:45,PM,3:45,NA,B ,NA,east,586052,1471901,586552,1471401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,13:00,16:45,PM,3:45,14:18,C,D - C,south,NA,NA,586552,1471401,588679,1463543,Evergreen,Long-tailed macaque,Macaca fascicularis,9,60,40,360,34.64101615137750000000,Stung Treng,
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,13:00,16:45,PM,3:45,14:20,C,D - C,south,NA,NA,586552,1471401,588679,1463543,Evergreen,Great Hornbill,Buceros bicornis,2,70,30,360,28.19077862357720000000,Stung Treng,
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,13:00,16:45,PM,3:45,14:30,C,D - C,south,NA,NA,586552,1471401,588679,1463543,Evergreen,Pileated gibbon,Hylobates pileatus,3,320,39,360,25.06871677777500000000,Stung Treng,
+48,Khiev Kimnannara and Srey Ratana,2023-04-23,13:00,16:45,PM,3:45,14:30,C,D - C,south,NA,NA,586552,1471401,587063,1471389,Evergreen,Long-tailed macaque,Macaca fascicularis,12,60,43,360,37.23909236273090000000,Stung Treng,
+49,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-11,6:05,11:30,AM,5:25,NA,A ,NA,north,546052,1473901,546552,1474401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+49,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-11,6:05,11:30,AM,5:25,NA,B,NA,east,546052,1474901,546552,1474401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+49,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-11,6:05,11:30,AM,5:25,NA,C,NA,south,547052,1474901,546552,1474401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+49,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-11,6:05,11:30,AM,5:25,NA,D ,NA,west,547052,1473901,546552,1474401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+49,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-11,13:02,16:32,PM,3:30,NA,A ,NA,north,546052,1473901,546552,1474401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+49,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-11,13:02,16:32,PM,3:30,NA,D ,NA,west,547052,1473901,546552,1474401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+49,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-11,13:02,16:32,PM,3:30,NA,C ,NA,south,547052,1474901,546552,1474401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+49,"Bon Dea, Khiev Kimnannara and Sok Nen",2023-02-11,13:02,16:32,PM,3:30,NA,B ,NA,east,546052,1474901,546552,1474401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+50,Nov Soa and Chea Vanna,2023-03-17,6:00,11:35,AM,5:35,6:30,A ,A​​ - B,north,NA,NA,580552,1474401,580052,1474505,Semi-evergreen,Great Hornbill,Buceros bicornis,2,90,30,360,30.00000000000000000000,Stung Treng,
+50,Nov Soa and Chea Vanna,2023-03-17,6:00,11:35,AM,5:35,7:09,B,B - C,east,NA,NA,580552,1474401,580519,1474920,Semi-evergreen,Pileated gibbon,Hylobates pileatus,2,100,12,90,11.81769303614650000000,Stung Treng,
+50,Nov Soa and Chea Vanna,2023-03-17,6:00,11:35,AM,5:35,NA,A ,NA,north,580052,1473901,580552,1474401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+50,Nov Soa and Chea Vanna,2023-03-17,6:00,11:35,AM,5:35,NA,B,NA,east,580052,1474901,580552,1474401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+50,Nov Soa and Chea Vanna,2023-03-17,6:00,11:35,AM,5:35,NA,C,NA,south,581052,1474901,580552,1474401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+50,Nov Soa and Chea Vanna,2023-03-17,6:00,11:35,AM,5:35,NA,D ,NA,west,581052,1473901,580552,1474401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+50,Nov Soa and Chea Vanna,2023-03-17,13:00,16:25,PM,3:25,NA,A ,NA,north,580052,1473901,580552,1474401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+50,Nov Soa and Chea Vanna,2023-03-17,13:00,16:25,PM,3:25,NA,D ,NA,west,581052,1473901,580552,1474401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+50,Nov Soa and Chea Vanna,2023-03-17,13:00,16:25,PM,3:25,NA,C ,NA,south,581052,1474901,580552,1474401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+50,Nov Soa and Chea Vanna,2023-03-17,13:00,16:25,PM,3:25,NA,B ,NA,east,580052,1474901,580552,1474401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+51,Chey Chet and Srey Ratana,2023-04-21,6:00,11:34,AM,5:34,7:13,B,B - C,east,NA,NA,585552,1474401,585500,1474883,DDF,Great Hornbill,Buceros bicornis,2,101,15,90,14.72440775171500000000,Stung Treng,
+51,Chey Chet and Srey Ratana,2023-04-21,6:00,11:34,AM,5:34,8:00,C,C - D,south,NA,NA,585552,1474401,586042,1474657,Semi-evergreen,Indochinese silvered langur,Trachypithecus germaini,9,40,30,180,19.28362829059620000000,Stung Treng,
+51,Chey Chet and Srey Ratana,2023-04-21,6:00,11:34,AM,5:34,NA,A ,NA,north,585052,1473901,585552,1474401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+51,Chey Chet and Srey Ratana,2023-04-21,6:00,11:34,AM,5:34,NA,B,NA,east,585052,1474901,585552,1474401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+51,Chey Chet and Srey Ratana,2023-04-21,6:00,11:34,AM,5:34,NA,C,NA,south,586052,1474901,585552,1474401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+51,Chey Chet and Srey Ratana,2023-04-21,6:00,11:34,AM,5:34,NA,D ,NA,west,586052,1473901,585552,1474401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+51,Chey Chet and Srey Ratana,2023-04-21,13:04,16:30,PM,3:26,NA,A ,NA,north,585052,1473901,585552,1474401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+51,Chey Chet and Srey Ratana,2023-04-21,13:04,16:30,PM,3:26,NA,D ,NA,west,586052,1473901,585552,1474401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+51,Chey Chet and Srey Ratana,2023-04-21,13:04,16:30,PM,3:26,NA,C ,NA,south,586052,1474901,585552,1474401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+51,Chey Chet and Srey Ratana,2023-04-21,13:04,16:30,PM,3:26,NA,B ,NA,east,585052,1474901,585552,1474401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+52,"Nov Soa, Chhay Lay and Ly Narong",2023-04-20,6:00,11:38,AM,5:38,7:23,B,B - C,east,NA,NA,576552,1475401,576277,1475920,Semi-evergreen,Pileated gibbon,Hylobates pileatus,2,240,25,90,21.65063509461100000000,Stung Treng,
+52,"Nov Soa, Chhay Lay and Ly Narong",2023-04-20,6:00,11:38,AM,5:38,NA,A ,NA,north,576052,1474901,576552,1475401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+52,"Nov Soa, Chhay Lay and Ly Narong",2023-04-20,6:00,11:38,AM,5:38,NA,B,NA,east,576052,1475901,576552,1475401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+52,"Nov Soa, Chhay Lay and Ly Narong",2023-04-20,6:00,11:38,AM,5:38,NA,C,NA,south,577052,1475901,576552,1475401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+52,"Nov Soa, Chhay Lay and Ly Narong",2023-04-20,6:00,11:38,AM,5:38,NA,D ,NA,west,577052,1474901,576552,1475401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+52,"Nov Soa, Chhay Lay and Ly Narong",2023-04-20,13:00,16:46,PM,3:46,NA,A ,NA,north,576052,1474901,576552,1475401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+52,"Nov Soa, Chhay Lay and Ly Narong",2023-04-20,13:00,16:46,PM,3:46,NA,D ,NA,west,577052,1474901,576552,1475401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+52,"Nov Soa, Chhay Lay and Ly Narong",2023-04-20,13:00,16:46,PM,3:46,NA,C ,NA,south,577052,1475901,576552,1475401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+52,"Nov Soa, Chhay Lay and Ly Narong",2023-04-20,13:00,16:46,PM,3:46,NA,B ,NA,east,576052,1475901,576552,1475401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+53,"Hul Bora, Him Yul and Thang Vireak",2023-04-22,6:00,11:26,AM,5:26,6:36,A ,A​​ - B,north,NA,NA,565552,1476401,565073,1476593,Evergreen,Green Peafowl,Pavo muticus,1,75,15,360,14.48888739433600000000,Stung Treng,
+53,"Hul Bora, Him Yul and Thang Vireak",2023-04-22,6:00,11:26,AM,5:26,6:50,A ,A​​ - B,north,NA,NA,565552,1476401,565056,1476880,Evergreen,Wild pig,Sus scrofa,4,280,10,360,9.84807753012208000000,Stung Treng,
+53,"Hul Bora, Him Yul and Thang Vireak",2023-04-22,6:00,11:26,AM,5:26,8:30,C,C - D,south,NA,NA,565552,1476401,566057,1476896,Evergreen,Great Hornbill,Buceros bicornis,4,124,10,180,8.29037572555042000000,Stung Treng,
+53,"Hul Bora, Him Yul and Thang Vireak",2023-04-22,6:00,11:26,AM,5:26,NA,A ,NA,north,565052,1475901,565552,1476401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+53,"Hul Bora, Him Yul and Thang Vireak",2023-04-22,6:00,11:26,AM,5:26,NA,B,NA,east,565052,1476901,565552,1476401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+53,"Hul Bora, Him Yul and Thang Vireak",2023-04-22,6:00,11:26,AM,5:26,NA,C,NA,south,566052,1476901,565552,1476401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+53,"Hul Bora, Him Yul and Thang Vireak",2023-04-22,6:00,11:26,AM,5:26,NA,D ,NA,west,566052,1475901,565552,1476401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+53,"Hul Bora, Him Yul and Thang Vireak",2023-04-22,13:00,16:40,PM,3:40,NA,A ,NA,north,565052,1475901,565552,1476401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+53,"Hul Bora, Him Yul and Thang Vireak",2023-04-22,13:00,16:40,PM,3:40,NA,D ,NA,west,566052,1475901,565552,1476401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+53,"Hul Bora, Him Yul and Thang Vireak",2023-04-22,13:00,16:40,PM,3:40,NA,C ,NA,south,566052,1476901,565552,1476401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+53,"Hul Bora, Him Yul and Thang Vireak",2023-04-22,13:00,16:40,PM,3:40,NA,B ,NA,east,565052,1476901,565552,1476401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+54,Lon Sopheanna and Chey Chet,2023-02-23,6:00,11:35,AM,5:35,NA,A ,NA,north,554052,1476901,554552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+54,Lon Sopheanna and Chey Chet,2023-02-23,6:00,11:35,AM,5:35,NA,B,NA,east,554052,1477901,554552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+54,Lon Sopheanna and Chey Chet,2023-02-23,6:00,11:35,AM,5:35,NA,C,NA,south,555052,1477901,554552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+54,Lon Sopheanna and Chey Chet,2023-02-23,6:00,11:35,AM,5:35,NA,D ,NA,west,555052,1476901,554552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+54,Lon Sopheanna and Chey Chet,2023-02-23,13:00,16:40,PM,3:40,NA,A ,NA,north,554052,1476901,554552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+54,Lon Sopheanna and Chey Chet,2023-02-23,13:00,16:40,PM,3:40,NA,D ,NA,west,555052,1476901,554552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+54,Lon Sopheanna and Chey Chet,2023-02-23,13:00,16:40,PM,3:40,NA,C ,NA,south,555052,1477901,554552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+54,Lon Sopheanna and Chey Chet,2023-02-23,13:00,16:40,PM,3:40,NA,B ,NA,east,554052,1477901,554552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,13:02,16:42,PM,3:40,15:30,A ,B - A,south,NA,NA,559552,1477401,558981,1477599,Evergreen,Pileated gibbon,Hylobates pileatus,6,80,25,90,24.62019382530520000000,Stung Treng,
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,6:06,11:31,AM,5:25,7:40,B,B - C,east,NA,NA,559552,1477401,559670,1477875,Evergreen,Pileated gibbon,Hylobates pileatus,4,160,60,90,20.52120859954010000000,Stung Treng,
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,6:06,11:31,AM,5:25,7:59,B,B - C,east,NA,NA,559552,1477401,560023,1477902,Evergreen,Great Hornbill,Buceros bicornis,15,360,25,90,0.00000000000000612323,Stung Treng,
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,6:06,11:31,AM,5:25,10:26,D ,D - A,west,NA,NA,559552,1477401,559745,1476918,Evergreen,Long-tailed macaque,Macaca fascicularis,18,330,51,270,25.50000000000000000000,Stung Treng,
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,6:06,11:31,AM,5:25,NA,A ,NA,north,559052,1476901,559552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,6:06,11:31,AM,5:25,NA,B,NA,east,559052,1477901,559552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,6:06,11:31,AM,5:25,NA,C,NA,south,560052,1477901,559552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,6:06,11:31,AM,5:25,NA,D ,NA,west,560052,1476901,559552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,13:02,16:42,PM,3:40,NA,A ,NA,north,559052,1476901,559552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,13:02,16:42,PM,3:40,NA,D ,NA,west,560052,1476901,559552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,13:02,16:42,PM,3:40,NA,C ,NA,south,560052,1477901,559552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,13:02,16:42,PM,3:40,NA,B ,NA,east,559052,1477901,559552,1477401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+55,"Hul Bora, Him Yul and Thang Vireak",2023-04-21,13:02,16:42,PM,3:40,14:00,C,D - C,south,NA,NA,559552,1477401,560003,1477566,Evergreen,Wild pig,Sus scrofa,7,270,15,360,15.00000000000000000000,Stung Treng,
+56,Dong Phirun and Khorn Doeurn,2023-04-25,6:06,11:36,AM,5:30,7:35,B,B - C,east,NA,NA,576552,1478401,576285,1478928,Evergreen,Indochinese silvered langur,Trachypithecus germaini,11,110,12,90,11.27631144943090000000,Stung Treng,
+56,Dong Phirun and Khorn Doeurn,2023-04-25,13:00,16:40,PM,3:40,15:02,B,C - B,east,NA,NA,576552,1478401,576270,1478925,Evergreen,Indochinese silvered langur,Trachypithecus germaini,11,320,31,270,19.92641590028270000000,Stung Treng,
+56,Dong Phirun and Khorn Doeurn,2023-04-25,6:06,11:36,AM,5:30,NA,A ,NA,north,576052,1477901,576552,1478401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+56,Dong Phirun and Khorn Doeurn,2023-04-25,6:06,11:36,AM,5:30,NA,B,NA,east,576052,1478901,576552,1478401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+56,Dong Phirun and Khorn Doeurn,2023-04-25,6:06,11:36,AM,5:30,NA,C,NA,south,577052,1478901,576552,1478401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+56,Dong Phirun and Khorn Doeurn,2023-04-25,6:06,11:36,AM,5:30,NA,D ,NA,west,577052,1477901,576552,1478401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+56,Dong Phirun and Khorn Doeurn,2023-04-25,13:00,16:40,PM,3:40,NA,A ,NA,north,576052,1477901,576552,1478401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+56,Dong Phirun and Khorn Doeurn,2023-04-25,13:00,16:40,PM,3:40,NA,D ,NA,west,577052,1477901,576552,1478401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+56,Dong Phirun and Khorn Doeurn,2023-04-25,13:00,16:40,PM,3:40,NA,C ,NA,south,577052,1478901,576552,1478401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+56,Dong Phirun and Khorn Doeurn,2023-04-25,13:00,16:40,PM,3:40,NA,B ,NA,east,576052,1478901,576552,1478401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+57,Dong Phirun and Khorn Doeurn,2023-05-17,6:00,11:22,AM,5:22,NA,A ,NA,north,540052,1481901,540552,1482401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+57,Dong Phirun and Khorn Doeurn,2023-05-17,6:00,11:22,AM,5:22,NA,B,NA,east,540052,1482901,540552,1482401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+57,Dong Phirun and Khorn Doeurn,2023-05-17,6:00,11:22,AM,5:22,NA,C,NA,south,541052,1482901,540552,1482401,NA,NA,Bamboo,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+57,Dong Phirun and Khorn Doeurn,2023-05-17,6:00,11:22,AM,5:22,NA,D ,NA,west,541052,1481901,540552,1482401,NA,NA,Bamboo,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+57,Dong Phirun and Khorn Doeurn,2023-05-17,13:06,16:27,PM,3:21,NA,A ,NA,north,540052,1481901,540552,1482401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+57,Dong Phirun and Khorn Doeurn,2023-05-17,13:06,16:27,PM,3:21,NA,D ,NA,west,541052,1481901,540552,1482401,NA,NA,Bamboo,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+57,Dong Phirun and Khorn Doeurn,2023-05-17,13:06,16:27,PM,3:21,NA,C ,NA,south,541052,1482901,540552,1482401,NA,NA,Bamboo,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+57,Dong Phirun and Khorn Doeurn,2023-05-17,13:06,16:27,PM,3:21,NA,B ,NA,east,540052,1482901,540552,1482401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+58,Lon Sopheanna and Chhay Lay,2023-02-26,6:07,11:36,AM,5:29,6:34,A ,A​​ - B,north,NA,NA,559552,1482401,559067,1482250,Evergreen,Great Hornbill,Buceros bicornis,1,270,12,360,12.00000000000000000000,Kampong Thom,
+58,Lon Sopheanna and Chhay Lay,2023-02-26,6:07,11:36,AM,5:29,7:05,A ,A​​ - B,north,NA,NA,559552,1482401,559080,1482700,Evergreen,Wild pig,Sus scrofa,2,46,18,360,12.94811640609570000000,Kampong Thom,
+58,Lon Sopheanna and Chhay Lay,2023-02-26,6:07,11:36,AM,5:29,8:21,B,B - C,east,NA,NA,559552,1482401,559971,1482942,Evergreen,Pileated gibbon,Hylobates pileatus,2,30,50,90,25.00000000000000000000,Kampong Thom,
+58,Lon Sopheanna and Chhay Lay,2023-02-26,6:07,11:36,AM,5:29,NA,A ,NA,north,559052,1481901,559552,1482401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+58,Lon Sopheanna and Chhay Lay,2023-02-26,6:07,11:36,AM,5:29,NA,B,NA,east,559052,1482901,559552,1482401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+58,Lon Sopheanna and Chhay Lay,2023-02-26,6:07,11:36,AM,5:29,NA,C,NA,south,560052,1482901,559552,1482401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+58,Lon Sopheanna and Chhay Lay,2023-02-26,6:07,11:36,AM,5:29,NA,D ,NA,west,560052,1481901,559552,1482401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+58,Lon Sopheanna and Chhay Lay,2023-02-26,13:00,16:30,PM,3:30,NA,A ,NA,north,559052,1481901,559552,1482401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+58,Lon Sopheanna and Chhay Lay,2023-02-26,13:00,16:30,PM,3:30,NA,D ,NA,west,560052,1481901,559552,1482401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+58,Lon Sopheanna and Chhay Lay,2023-02-26,13:00,16:30,PM,3:30,NA,C ,NA,south,560052,1482901,559552,1482401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+58,Lon Sopheanna and Chhay Lay,2023-02-26,13:00,16:30,PM,3:30,NA,B ,NA,east,559052,1482901,559552,1482401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+59,"Hul Bora, Him Yul and Chhun Borin",2023-05-16,6:05,11:32,AM,5:27,6:14,A ,A​​ - B,north,NA,NA,542552,1484401,542046,1484102,DDF,Red Muntjac,Muntiacus muntjak,1,80,45,360,44.31634888554940000000,Preah Vihear,
+59,"Hul Bora, Him Yul and Chhun Borin",2023-05-16,6:05,11:32,AM,5:27,6:30,A ,A​​ - B,north,NA,NA,542552,1484401,544256,1484335,DDF,Sambar,Rusa unicolor ,2,95,100,360,99.61946980917460000000,Preah Vihear,
+59,"Hul Bora, Him Yul and Chhun Borin",2023-05-16,13:00,16:30,PM,3:30,15:38,A ,B - A,south,NA,NA,542552,1484401,542056,1484713,DDF,Red Muntjac,Muntiacus muntjak,1,240,50,180,43.30127018922190000000,Preah Vihear,
+59,"Hul Bora, Him Yul and Chhun Borin",2023-05-16,6:05,11:32,AM,5:27,9:30,D ,D - A,west,NA,NA,542552,1484401,542610,1483947,Semi-evergreen,Red Muntjac,Muntiacus muntjak,1,90,10,270,10.00000000000000000000,Preah Vihear,
+59,"Hul Bora, Him Yul and Chhun Borin",2023-05-16,6:05,11:32,AM,5:27,NA,A ,NA,north,542052,1483901,542552,1484401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+59,"Hul Bora, Him Yul and Chhun Borin",2023-05-16,6:05,11:32,AM,5:27,NA,B,NA,east,542052,1484901,542552,1484401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+59,"Hul Bora, Him Yul and Chhun Borin",2023-05-16,6:05,11:32,AM,5:27,NA,C,NA,south,543052,1484901,542552,1484401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+59,"Hul Bora, Him Yul and Chhun Borin",2023-05-16,6:05,11:32,AM,5:27,NA,D ,NA,west,543052,1483901,542552,1484401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+59,"Hul Bora, Him Yul and Chhun Borin",2023-05-16,13:00,16:30,PM,3:30,NA,A ,NA,north,542052,1483901,542552,1484401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+59,"Hul Bora, Him Yul and Chhun Borin",2023-05-16,13:00,16:30,PM,3:30,NA,D ,NA,west,543052,1483901,542552,1484401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+59,"Hul Bora, Him Yul and Chhun Borin",2023-05-16,13:00,16:30,PM,3:30,NA,C ,NA,south,543052,1484901,542552,1484401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+59,"Hul Bora, Him Yul and Chhun Borin",2023-05-16,13:00,16:30,PM,3:30,NA,B ,NA,east,542052,1484901,542552,1484401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+60,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-25,6:05,11:30,AM,5:25,NA,A ,NA,north,557052,1483901,557552,1484401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+60,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-25,6:05,11:30,AM,5:25,NA,B,NA,east,557052,1484901,557552,1484401,NA,NA,Farm,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+60,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-25,6:05,11:30,AM,5:25,NA,C,NA,south,558052,1484901,557552,1484401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+60,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-25,6:05,11:30,AM,5:25,NA,D ,NA,west,558052,1483901,557552,1484401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+60,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-25,13:00,16:37,PM,3:37,NA,A ,NA,north,557052,1483901,557552,1484401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+60,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-25,13:00,16:37,PM,3:37,NA,D ,NA,west,558052,1483901,557552,1484401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+60,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-25,13:00,16:37,PM,3:37,NA,C ,NA,south,558052,1484901,557552,1484401,NA,NA,Farm,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+60,"Chhay Lay, Khorn Doeurn and Chok Socheat",2023-02-25,13:00,16:37,PM,3:37,NA,B ,NA,east,557052,1484901,557552,1484401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Kampong Thom,No wildlife
+61,"Him Yul, Dong Phirun and Thang Vireak",2023-03-18,6:00,11:32,AM,5:32,NA,A ,NA,north,567052,1484901,567552,1485401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+61,"Him Yul, Dong Phirun and Thang Vireak",2023-03-18,6:00,11:32,AM,5:32,NA,B,NA,east,567052,1485901,567552,1485401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+61,"Him Yul, Dong Phirun and Thang Vireak",2023-03-18,6:00,11:32,AM,5:32,NA,C,NA,south,568052,1485901,567552,1485401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+61,"Him Yul, Dong Phirun and Thang Vireak",2023-03-18,6:00,11:32,AM,5:32,NA,D ,NA,west,568052,1484901,567552,1485401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+61,"Him Yul, Dong Phirun and Thang Vireak",2023-03-18,13:00,16:34,PM,3:34,NA,A ,NA,north,567052,1484901,567552,1485401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+61,"Him Yul, Dong Phirun and Thang Vireak",2023-03-18,13:00,16:34,PM,3:34,NA,D ,NA,west,568052,1484901,567552,1485401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+61,"Him Yul, Dong Phirun and Thang Vireak",2023-03-18,13:00,16:34,PM,3:34,NA,C ,NA,south,568052,1485901,567552,1485401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+61,"Him Yul, Dong Phirun and Thang Vireak",2023-03-18,13:00,16:34,PM,3:34,NA,B ,NA,east,567052,1485901,567552,1485401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+61,"Him Yul, Dong Phirun and Thang Vireak",2023-03-18,6:00,11:32,AM,5:32,8:45,C,C - D,south,NA,NA,567552,1485401,568014,1485413,Semi-evergreen,Pileated gibbon,Hylobates pileatus,2,210,85,180,42.50000000000000000000,Stung Treng,
+62,"Heam Pheak, Theam Vichet and Noun Vansuy",2023-05-16,6:00,11:30,AM,5:30,NA,A ,NA,north,548052,1487901,548552,1488401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+62,"Heam Pheak, Theam Vichet and Noun Vansuy",2023-05-16,6:00,11:30,AM,5:30,NA,B,NA,east,548052,1488901,548552,1488401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+62,"Heam Pheak, Theam Vichet and Noun Vansuy",2023-05-16,6:00,11:30,AM,5:30,NA,C,NA,south,549052,1488901,548552,1488401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+62,"Heam Pheak, Theam Vichet and Noun Vansuy",2023-05-16,6:00,11:30,AM,5:30,NA,D ,NA,west,549052,1487901,548552,1488401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+62,"Heam Pheak, Theam Vichet and Noun Vansuy",2023-05-16,13:00,16:26,PM,3:26,NA,A ,NA,north,548052,1487901,548552,1488401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+62,"Heam Pheak, Theam Vichet and Noun Vansuy",2023-05-16,13:00,16:26,PM,3:26,NA,D ,NA,west,549052,1487901,548552,1488401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+62,"Heam Pheak, Theam Vichet and Noun Vansuy",2023-05-16,13:00,16:26,PM,3:26,NA,C ,NA,south,549052,1488901,548552,1488401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+62,"Heam Pheak, Theam Vichet and Noun Vansuy",2023-05-16,13:00,16:26,PM,3:26,NA,B ,NA,east,548052,1488901,548552,1488401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+62,"Heam Pheak, Theam Vichet and Noun Vansuy",2023-05-16,13:00,16:26,PM,3:26,14:28,C,D - C,south,NA,NA,548552,1488401,549041,1488372,Evergreen,Long-tailed macaque,Macaca fascicularis,3,305,37,360,30.30862563869270000000,Preah Vihear,
+63,Nov Soa and Ly Narong,2023-05-17,6:00,11:30,AM,5:30,9:25,C,C - D,south,NA,NA,550552,1489401,551063,1489837,Evergreen,Wild pig,Sus scrofa,2,170,20,180,3.47296355333861000000,Preah Vihear,
+63,Nov Soa and Ly Narong,2023-05-17,6:00,11:30,AM,5:30,NA,A ,NA,north,550052,1488901,550552,1489401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+63,Nov Soa and Ly Narong,2023-05-17,6:00,11:30,AM,5:30,NA,B,NA,east,550052,1489901,550552,1489401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+63,Nov Soa and Ly Narong,2023-05-17,6:00,11:30,AM,5:30,NA,C,NA,south,551052,1489901,550552,1489401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+63,Nov Soa and Ly Narong,2023-05-17,6:00,11:30,AM,5:30,NA,D ,NA,west,551052,1488901,550552,1489401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+63,Nov Soa and Ly Narong,2023-05-17,13:00,16:30,PM,3:30,NA,A ,NA,north,550052,1488901,550552,1489401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+63,Nov Soa and Ly Narong,2023-05-17,13:00,16:30,PM,3:30,NA,D ,NA,west,551052,1488901,550552,1489401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+63,Nov Soa and Ly Narong,2023-05-17,13:00,16:30,PM,3:30,NA,C ,NA,south,551052,1489901,550552,1489401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+63,Nov Soa and Ly Narong,2023-05-17,13:00,16:30,PM,3:30,NA,B ,NA,east,550052,1489901,550552,1489401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+64,Khorn Doeurn and Hul Bora,2023-03-17,6:02,11:35,AM,5:33,6:10,A ,A​​ - B,north,NA,NA,570552,1490401,570038,1490039,DDF,Red Muntjac,Muntiacus muntjak,1,80,30,360,29.54423259036620000000,Stung Treng,
+64,Khorn Doeurn and Hul Bora,2023-03-17,13:00,16:35,PM,3:35,13:46,D,A - D,west,NA,NA,570552,1490401,570860,1489898,Evergreen,Long-tailed macaque,Macaca fascicularis,10,171,25,90,3.91086162600577000000,Stung Treng,
+64,Khorn Doeurn and Hul Bora,2023-03-17,6:02,11:35,AM,5:33,8:28,B,B - C,east,NA,NA,570552,1490401,570895,1490921,Semi-evergreen,Red Muntjac,Muntiacus muntjak,1,260,25,90,24.62019382530520000000,Stung Treng,
+64,Khorn Doeurn and Hul Bora,2023-03-17,6:02,11:35,AM,5:33,NA,A ,NA,north,570052,1489901,570552,1490401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+64,Khorn Doeurn and Hul Bora,2023-03-17,6:02,11:35,AM,5:33,NA,B,NA,east,570052,1490901,570552,1490401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+64,Khorn Doeurn and Hul Bora,2023-03-17,6:02,11:35,AM,5:33,NA,C,NA,south,571052,1490901,570552,1490401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+64,Khorn Doeurn and Hul Bora,2023-03-17,6:02,11:35,AM,5:33,NA,D ,NA,west,571052,1489901,570552,1490401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+64,Khorn Doeurn and Hul Bora,2023-03-17,13:00,16:35,PM,3:35,NA,A ,NA,north,570052,1489901,570552,1490401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+64,Khorn Doeurn and Hul Bora,2023-03-17,13:00,16:35,PM,3:35,NA,D ,NA,west,571052,1489901,570552,1490401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+64,Khorn Doeurn and Hul Bora,2023-03-17,13:00,16:35,PM,3:35,NA,C ,NA,south,571052,1490901,570552,1490401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+64,Khorn Doeurn and Hul Bora,2023-03-17,13:00,16:35,PM,3:35,NA,B ,NA,east,570052,1490901,570552,1490401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+64,Khorn Doeurn and Hul Bora,2023-03-17,6:02,11:35,AM,5:33,8:59,C,C - D,south,NA,NA,570552,1490401,571069,1490644,Semi-evergreen,Red Muntjac,Muntiacus muntjak,1,280,7,180,6.89365427108546000000,Stung Treng,
+65,Nov Soa and Ly Narong,2023-05-14,6:00,11:30,AM,5:30,6:01,A ,A​​ - B,north,NA,NA,539552,1491401,539056,1490891,DDF,Red Muntjac,Muntiacus muntjak,1,300,28,360,24.24871130596430000000,Preah Vihear,
+65,Nov Soa and Ly Narong,2023-05-14,6:00,11:30,AM,5:30,NA,A ,NA,north,539052,1490901,539552,1491401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+65,Nov Soa and Ly Narong,2023-05-14,6:00,11:30,AM,5:30,NA,B,NA,east,539052,1491901,539552,1491401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+65,Nov Soa and Ly Narong,2023-05-14,6:00,11:30,AM,5:30,NA,C,NA,south,540052,1491901,539552,1491401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+65,Nov Soa and Ly Narong,2023-05-14,6:00,11:30,AM,5:30,NA,D ,NA,west,540052,1490901,539552,1491401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+65,Nov Soa and Ly Narong,2023-05-14,13:00,16:30,PM,3:30,NA,A ,NA,north,539052,1490901,539552,1491401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+65,Nov Soa and Ly Narong,2023-05-14,13:00,16:30,PM,3:30,NA,D ,NA,west,540052,1490901,539552,1491401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+65,Nov Soa and Ly Narong,2023-05-14,13:00,16:30,PM,3:30,NA,C ,NA,south,540052,1491901,539552,1491401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+65,Nov Soa and Ly Narong,2023-05-14,13:00,16:30,PM,3:30,NA,B ,NA,east,539052,1491901,539552,1491401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+66,"Dong Phirun, Him Yul and Thang Vireak",2023-03-16,13:05,16:24,PM,3:19,16:02,A ,B - A,south,NA,NA,563552,1493401,562955,1492931,DDF,Wild pig,Sus scrofa,5,210,30,180,15.00000000000000000000,Stung Treng,
+66,"Dong Phirun, Him Yul and Thang Vireak",2023-03-16,6:02,11:37,AM,5:35,NA,A ,NA,north,563052,1492901,563552,1493401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+66,"Dong Phirun, Him Yul and Thang Vireak",2023-03-16,6:02,11:37,AM,5:35,NA,B,NA,east,563052,1493901,563552,1493401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+66,"Dong Phirun, Him Yul and Thang Vireak",2023-03-16,6:02,11:37,AM,5:35,NA,C,NA,south,564052,1493901,563552,1493401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+66,"Dong Phirun, Him Yul and Thang Vireak",2023-03-16,6:02,11:37,AM,5:35,NA,D ,NA,west,564052,1492901,563552,1493401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+66,"Dong Phirun, Him Yul and Thang Vireak",2023-03-16,13:05,16:24,PM,3:19,NA,A ,NA,north,563052,1492901,563552,1493401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+66,"Dong Phirun, Him Yul and Thang Vireak",2023-03-16,13:05,16:24,PM,3:19,NA,D ,NA,west,564052,1492901,563552,1493401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+66,"Dong Phirun, Him Yul and Thang Vireak",2023-03-16,13:05,16:24,PM,3:19,NA,C ,NA,south,564052,1493901,563552,1493401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+66,"Dong Phirun, Him Yul and Thang Vireak",2023-03-16,13:05,16:24,PM,3:19,NA,B ,NA,east,563052,1493901,563552,1493401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+67,"Hul Bora, Him Yul and Chhun Borin",2023-05-14,6:05,11:45,AM,5:40,NA,A ,NA,north,534052,1496901,534552,1497401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+67,"Hul Bora, Him Yul and Chhun Borin",2023-05-14,6:05,11:45,AM,5:40,NA,B,NA,east,534052,1497901,534552,1497401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+67,"Hul Bora, Him Yul and Chhun Borin",2023-05-14,6:05,11:45,AM,5:40,NA,C,NA,south,535052,1497901,534552,1497401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+67,"Hul Bora, Him Yul and Chhun Borin",2023-05-14,6:05,11:45,AM,5:40,NA,D ,NA,west,535052,1496901,534552,1497401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+67,"Hul Bora, Him Yul and Chhun Borin",2023-05-14,13:02,16:30,PM,3:28,NA,A ,NA,north,534052,1496901,534552,1497401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+67,"Hul Bora, Him Yul and Chhun Borin",2023-05-14,13:02,16:30,PM,3:28,NA,D ,NA,west,535052,1496901,534552,1497401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+67,"Hul Bora, Him Yul and Chhun Borin",2023-05-14,13:02,16:30,PM,3:28,NA,C ,NA,south,535052,1497901,534552,1497401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+67,"Hul Bora, Him Yul and Chhun Borin",2023-05-14,13:02,16:30,PM,3:28,NA,B ,NA,east,534052,1497901,534552,1497401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+68,Theam Vichet and Heam Pheak,2023-05-19,6:00,11:39,AM,5:39,6:11,A ,A​​ - B,north,NA,NA,558552,1498401,559771,1498091,Semi-evergreen,Red Muntjac,Muntiacus muntjak,1,50,23,360,17.61902219173650000000,Preah Vihear,
+68,Theam Vichet and Heam Pheak,2023-05-19,6:00,11:39,AM,5:39,NA,A ,NA,north,558052,1497901,558552,1498401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+68,Theam Vichet and Heam Pheak,2023-05-19,6:00,11:39,AM,5:39,NA,B,NA,east,558052,1498901,558552,1498401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+68,Theam Vichet and Heam Pheak,2023-05-19,6:00,11:39,AM,5:39,NA,C,NA,south,559052,1498901,558552,1498401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+68,Theam Vichet and Heam Pheak,2023-05-19,6:00,11:39,AM,5:39,NA,D ,NA,west,559052,1497901,558552,1498401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+68,Theam Vichet and Heam Pheak,2023-05-19,13:00,16:28,PM,3:28,NA,A ,NA,north,558052,1497901,558552,1498401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+68,Theam Vichet and Heam Pheak,2023-05-19,13:00,16:28,PM,3:28,NA,D ,NA,west,559052,1497901,558552,1498401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+68,Theam Vichet and Heam Pheak,2023-05-19,13:00,16:28,PM,3:28,NA,C ,NA,south,559052,1498901,558552,1498401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+68,Theam Vichet and Heam Pheak,2023-05-19,13:00,16:28,PM,3:28,NA,B ,NA,east,558052,1498901,558552,1498401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+69,Dong Phirun and Khorn Doeurn,2023-05-14,13:00,16:17,PM,3:17,15:31,A ,B - A,south,NA,NA,534552,1500401,534052,1500428,DDF,Red Muntjac,Muntiacus muntjak,1,260,31,180,30.52904034337840000000,Preah Vihear,
+69,Dong Phirun and Khorn Doeurn,2023-05-14,6:02,11:25,AM,5:23,NA,A ,NA,north,534052,1499901,534552,1500401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+69,Dong Phirun and Khorn Doeurn,2023-05-14,6:02,11:25,AM,5:23,NA,B,NA,east,534052,1500901,534552,1500401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+69,Dong Phirun and Khorn Doeurn,2023-05-14,6:02,11:25,AM,5:23,NA,C,NA,south,535052,1500901,534552,1500401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+69,Dong Phirun and Khorn Doeurn,2023-05-14,6:02,11:25,AM,5:23,NA,D ,NA,west,535052,1499901,534552,1500401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+69,Dong Phirun and Khorn Doeurn,2023-05-14,13:00,16:17,PM,3:17,NA,A ,NA,north,534052,1499901,534552,1500401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+69,Dong Phirun and Khorn Doeurn,2023-05-14,13:00,16:17,PM,3:17,NA,D ,NA,west,535052,1499901,534552,1500401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+69,Dong Phirun and Khorn Doeurn,2023-05-14,13:00,16:17,PM,3:17,NA,C ,NA,south,535052,1500901,534552,1500401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+69,Dong Phirun and Khorn Doeurn,2023-05-14,13:00,16:17,PM,3:17,NA,B ,NA,east,534052,1500901,534552,1500401,NA,NA,DDF,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+70,"Hul Bora, Him Yul and Khorn Doeurn ",2023-02-15,6:08,11:40,AM,5:32,NA,A ,NA,north,563052,1501901,563552,1502401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+70,"Hul Bora, Him Yul and Khorn Doeurn ",2023-02-15,6:08,11:40,AM,5:32,NA,B,NA,east,563052,1502901,563552,1502401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+70,"Hul Bora, Him Yul and Khorn Doeurn ",2023-02-15,6:08,11:40,AM,5:32,NA,C,NA,south,564052,1502901,563552,1502401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+70,"Hul Bora, Him Yul and Khorn Doeurn ",2023-02-15,6:08,11:40,AM,5:32,NA,D ,NA,west,564052,1501901,563552,1502401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+70,"Hul Bora, Him Yul and Khorn Doeurn ",2023-02-15,13:12,16:42,PM,3:30,NA,A ,NA,north,563052,1501901,563552,1502401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+70,"Hul Bora, Him Yul and Khorn Doeurn ",2023-02-15,13:12,16:42,PM,3:30,NA,D ,NA,west,564052,1501901,563552,1502401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+70,"Hul Bora, Him Yul and Khorn Doeurn ",2023-02-15,13:12,16:42,PM,3:30,NA,C ,NA,south,564052,1502901,563552,1502401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+70,"Hul Bora, Him Yul and Khorn Doeurn ",2023-02-15,13:12,16:42,PM,3:30,NA,B ,NA,east,563052,1502901,563552,1502401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Stung Treng,No wildlife
+71,Lon Soheanna and Chey Chet,2023-05-18,6:00,11:29,AM,5:29,NA,A ,NA,north,545052,1509901,545552,1510401,NA,NA,Farm & Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+71,Lon Soheanna and Chey Chet,2023-05-18,6:00,11:29,AM,5:29,NA,B,NA,east,545052,1510901,545552,1510401,NA,NA,Farm & Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+71,Lon Soheanna and Chey Chet,2023-05-18,6:00,11:29,AM,5:29,NA,C,NA,south,546052,1510901,545552,1510401,NA,NA,Farm & Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+71,Lon Soheanna and Chey Chet,2023-05-18,6:00,11:29,AM,5:29,NA,D ,NA,west,546052,1509901,545552,1510401,NA,NA,Farm & Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+71,Lon Soheanna and Chey Chet,2023-05-18,13:00,16:20,PM,3:20,NA,A ,NA,north,545052,1509901,545552,1510401,NA,NA,Farm & Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+71,Lon Soheanna and Chey Chet,2023-05-18,13:00,16:20,PM,3:20,NA,D ,NA,west,546052,1509901,545552,1510401,NA,NA,Farm & Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+71,Lon Soheanna and Chey Chet,2023-05-18,13:00,16:20,PM,3:20,NA,C ,NA,south,546052,1510901,545552,1510401,NA,NA,Farm & Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+71,Lon Soheanna and Chey Chet,2023-05-18,13:00,16:20,PM,3:20,NA,B ,NA,east,545052,1510901,545552,1510401,NA,NA,Farm & Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+72,Chhay Lay and Chey Men,2023-05-14,6:03,11:34,AM,5:31,NA,A ,NA,north,550052,1510901,550552,1511401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+72,Chhay Lay and Chey Men,2023-05-14,6:03,11:34,AM,5:31,NA,B,NA,east,550052,1511901,550552,1511401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+72,Chhay Lay and Chey Men,2023-05-14,6:03,11:34,AM,5:31,NA,C,NA,south,551052,1511901,550552,1511401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+72,Chhay Lay and Chey Men,2023-05-14,6:03,11:34,AM,5:31,NA,D ,NA,west,551052,1510901,550552,1511401,NA,NA,Farm,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+72,Chhay Lay and Chey Men,2023-05-14,13:05,16:27,PM,3:22,NA,A ,NA,north,550052,1510901,550552,1511401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+72,Chhay Lay and Chey Men,2023-05-14,13:05,16:27,PM,3:22,NA,D ,NA,west,551052,1510901,550552,1511401,NA,NA,Farm,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+72,Chhay Lay and Chey Men,2023-05-14,13:05,16:27,PM,3:22,NA,C ,NA,south,551052,1511901,550552,1511401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+72,Chhay Lay and Chey Men,2023-05-14,13:05,16:27,PM,3:22,NA,B ,NA,east,550052,1511901,550552,1511401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+73,Chhay Lay and Chey Men,2023-05-17,13:06,16:29,PM,3:23,13:30,D,A - D,west,NA,NA,547552,1513401,547420,1512937,Evergreen,Wild pig,Sus scrofa,5,140,21,90,13.49853980341730000000,Preah Vihear,
+73,Chhay Lay and Chey Men,2023-05-17,13:06,16:29,PM,3:23,13:51,D,A - D,west,NA,NA,547552,1513401,547939,1512901,DDF,Red Muntjac,Muntiacus muntjak,1,149,33,90,16.99625647203180000000,Preah Vihear,
+73,Chhay Lay and Chey Men,2023-05-17,6:05,11:31,AM,5:26,NA,A ,NA,north,547052,1512901,547552,1513401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+73,Chhay Lay and Chey Men,2023-05-17,6:05,11:31,AM,5:26,NA,B,NA,east,547052,1513901,547552,1513401,NA,NA,Farm,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+73,Chhay Lay and Chey Men,2023-05-17,6:05,11:31,AM,5:26,NA,C,NA,south,548052,1513901,547552,1513401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+73,Chhay Lay and Chey Men,2023-05-17,6:05,11:31,AM,5:26,NA,D ,NA,west,548052,1512901,547552,1513401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+73,Chhay Lay and Chey Men,2023-05-17,13:06,16:29,PM,3:23,NA,A ,NA,north,547052,1512901,547552,1513401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+73,Chhay Lay and Chey Men,2023-05-17,13:06,16:29,PM,3:23,NA,D ,NA,west,548052,1512901,547552,1513401,NA,NA,Semi-evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+73,Chhay Lay and Chey Men,2023-05-17,13:06,16:29,PM,3:23,NA,C ,NA,south,548052,1513901,547552,1513401,NA,NA,Evergreen,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+73,Chhay Lay and Chey Men,2023-05-17,13:06,16:29,PM,3:23,NA,B ,NA,east,547052,1513901,547552,1513401,NA,NA,Farm,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+74,Lon Soheanna and Chey Chet,2023-05-16,6:00,11:20,AM,5:20,NA,A ,NA,north,544052,1514901,544552,1515401,NA,NA,Farm,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+74,Lon Soheanna and Chey Chet,2023-05-16,6:00,11:20,AM,5:20,NA,B,NA,east,544052,1515901,544552,1515401,NA,NA,Farm & Semi-evergreen ,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+74,Lon Soheanna and Chey Chet,2023-05-16,6:00,11:20,AM,5:20,NA,C,NA,south,545052,1515901,544552,1515401,NA,NA,Farm & Semi-evergreen ,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+74,Lon Soheanna and Chey Chet,2023-05-16,6:00,11:20,AM,5:20,NA,D ,NA,west,545052,1514901,544552,1515401,NA,NA,Farm & Semi-evergreen ,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+74,Lon Soheanna and Chey Chet,2023-05-16,13:00,16:25,PM,3:25,NA,A ,NA,north,544052,1514901,544552,1515401,NA,NA,Farm,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+74,Lon Soheanna and Chey Chet,2023-05-16,13:00,16:25,PM,3:25,NA,D ,NA,west,545052,1514901,544552,1515401,NA,NA,Farm & Semi-evergreen ,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+74,Lon Soheanna and Chey Chet,2023-05-16,13:00,16:25,PM,3:25,NA,C ,NA,south,545052,1515901,544552,1515401,NA,NA,Farm & Semi-evergreen ,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
+74,Lon Soheanna and Chey Chet,2023-05-16,13:00,16:25,PM,3:25,NA,B ,NA,east,544052,1515901,544552,1515401,NA,NA,Farm & Semi-evergreen ,NA,NA,NA,NA,NA,NA,NA,Preah Vihear,No wildlife
