@@ -51,7 +51,8 @@ csl: global-ecology-and-conservation.csl
 editor: visual
 format: 
   html: default
-  pdf: default
+  pdf: 
+    pdf-engine: lualatex
   docx: default
 format-links: [pdf, docx]
 ---
