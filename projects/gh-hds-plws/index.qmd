@@ -49,6 +49,10 @@ date: last-modified
 bibliography: plws-ref.bib
 csl: global-ecology-and-conservation.csl
 editor: visual
+format: 
+  html: default
+  pdf: default
+  docx: default
 ---
 
 # Packages
@@ -64,6 +68,7 @@ library(tmap)
 library(rjags)
 library(here)
 ```
+
 # Introduction
 
 ## REDD+
