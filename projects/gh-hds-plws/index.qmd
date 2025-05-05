@@ -27,7 +27,7 @@ keywords:
   - Distance sampling
 abstract: |
   We explore hierarchical distance sampling (HDS) analyses to estimate native
-  wildlife densities in Cambodia. Specifically, we leverage wildlife occurence
+  wildlife densities in Cambodia. Specifically, we leverage wildlife occurrence
   and distance data collected from line transects to estimate Great hornbill 
   (GH) *Buceros bicornis* densities within Prey Lang Wildlife Sanctuary (PLWS) 
   in central Cambodia.
@@ -38,7 +38,7 @@ abstract: |
   determine the impact of carbon conservation measures and its impact on
   deforestation efforts to conserve native flora and fauna. In accordance to
   this PLWS REDD+ project, CI deployed a baseline assessment of transect line
-  surveysto determine baseline population densities for key biodiversity
+  surveys to determine baseline population densities for key biodiversity
   species inhabiting PLWS.
   Specifically, our objectives were to explore how HDS methods utilizing
   environmental covariates such as GH group size, tree canopy height, and human 
@@ -73,13 +73,25 @@ library(here)
 
 ## REDD+
 
-Ongoing global deforestation within and adjacent to tropical forest ecosystems has led to continued decline of wildlife populations and rampant habitat degradation, contributing to the loss of critical ecosystem functioning and biodiversity decline affecting critical environmental and ecological processes such as disruptions to trophic cascades, climate and hydrological regulation. This continued degredation is especially prominent in Global South countries where a majority of the world's tropical biomes and biodiversity remain.
+Ongoing global deforestation within and adjacent to tropical forest ecosystems has led to continued decline of wildlife populations and rampant habitat degradation, contributing to the loss of critical ecosystem functioning and biodiversity decline affecting critical environmental and ecological processes such as disruptions to trophic cascades, climate and hydrological regulation. This continued degradation is especially prominent in Global South countries where a majority of the world's tropical biomes and biodiversity remain.
 
 Reduced Emissions from Deforestation and Forest Degradation (REDD+) is a voluntary global scale climate change mitigation program aiming at creating financial values for carbon stored in forests, and aimed at offerring incentives to reduce greenhouse gas emissions from deforestation and forest degradation \[citation\].
 
 In many cases, REDD+ provides an avenue for potential forest protection by providing financial-based incentives as conservation projects through reduced forest loss against a defined baseline [@pauly2022sr]. Through this mechanism, REDD+ proponents have supported the notion that Global North nations can contribute to sustainable development in Global South nations by investing in these carbon markets created through theoretical protection of forests.
 
 In an effort to curtail forest loss and combat deforestation, REDD+ program schemes have been implemented globally in developing tropical regions along with generating carbon credits to be used. Generally, the funds obtained from these voluntary markets are used to better improve deforestation efforts, and promote conservation projects such as improving law enforcement, development alternative incomes for local communities, and research and monitoring of natural resources within protected areas.
+
+There is growing interest to monitor biodiversity for REDD+ projects [@dickson2012coies], however,
+there are few published papers that look at this specific instance where REDD+ projects are
+targeting biodiversity monitoring. "dickson2012coies" summarize the state of biodiversity
+monitoring within established REDD+ projects. [@waldon2011tcs] suggest that it is necessary to
+assess whether REDD+ management and project areas are achieving maintaining and improving
+biodiversity status, indicating a need to monitor changes and trends in populations of key
+indicator taxa for the project area. They maintain that while IUCN criteria are useful at a global
+scale, global wide assessments may not adequately reflect regional or localized concerns;
+therefore, assessments should be made at local and regional scales to identify biodiversity
+conservation targets. Camera trapping and acoustic methods are both non-invasive ways to collect
+biodiversity at an economical and time sensitive rate.
 
 ::: callout-warning
 Insert sources to make the link between the benefits of managing a REDD+ landscape entails a necessity to monitor biodiversity levels, thus also improving ecosystem functioning for the (tropical forest) region.
@@ -93,7 +105,7 @@ In collaboration with the Cambodian Ministry of Environment (MoE), Conservation 
 
 To generate carbon credits for sale, CI and MoE initiated the JCM REDD+ program in PLWS to ensure sustainable financing for the program and protection of PLWS. Between 2018 to 2021, the JCM REDD+ Project Phase 1 was implemented in Stung Treng within PLWS, while Phase 2 project proposal was signed by MoE, CI, and Mitsui & Co., Ltd., (Mitsui) in April 2021 to extend the project objectives to include the other three provinces of Kampong Thom, Kratie, and Preah Vihear, with a completed end date goal of 2026.
 
-To assess and monitor baseline populations of key taxa, robust and reliable populaton density estimates require robust statistical techniques to seperate observation and ecological processes within surveyed REDD+ landscapes.
+To assess and monitor baseline populations of key taxa, robust and reliable population density estimates require robust statistical techniques to separate observation and ecological processes within surveyed REDD+ landscapes.
 
 ## Distance Sampling to Estimate Abundance and/or Density
 
@@ -127,17 +139,34 @@ More information about the status of hornbill species in Cambodia will be udpate
 
 A number of peer-reviewed studies have incorporated line transect surveys and distance sampling (DS) analyses to estimate hornbill densities from different regions of the world. @sriprasertsil2024geac conducted variable-width line transect surveys and used multi-covariate distance sampling to estimate hornbill densities from June 2021 to June 2022 in two protected areas in Southern Thailand: Hala-Bala Wildlife Sanctuary and Budo Su-Ngai Padi National Park. @pradhan2024geac estimated abundances for four hornbill species: Great Hornbill, Wreathed Hornbill, Rufous-necked Hornbill, Oriental Pied-Hornbill) in the highly-fragmented and highly-modified Buxa Tiger Reserve in northern West Bengal, India. Researchers used line transects and multi-covariate distance sampling to estimate densities recording hornbill species, flock size, time of sighting, activity (perched, foraging, call and flight) and perpendicular distance from the observer to the bird. Predictor variables (elevation, density of fruiting trees, cut logs, total basal area) and hornbill occurrence was explored using a generalized linear model with binomial error structure with all hornbill occurrences pooled together. @pawar2021i utilized distance sampling methods to estimate abundance of Great Hornbills and Malabar Grey Hornbills in two contrasting habitat types in protected area rainforests versus fragmented habitat consisting of coffee plantations in India. They found that both hornbill species used both habitat types year-round. Their main findings include determining that distance sampling estimates were higher in protected areas for both nesting and non-nesting seasons.
 
+To date, there have been no formal estimates of population abundance for hornbills in Cambodia; thus, our goal was to estimate robust Great hornbill population estimates for the entirety of the Prey Lang Wildlife Sanctuary landscape, while simultaneously understanding the effects of habitat variation at landscape scale that could potentially affect density estimates.
+
 # Methods
 
 ## Study Area: Prey Lang Wildlife Sanctuary (PLWS)
 
-Prey Lang Wildlife Sanctuary (PLWS) is a protected area located in the central plains of Cambodia. As one of the largest areas of contiguous lowland tropical forests left in mainland Southeast Asia, PLWS was established in 2016 and covers four provinces including 1) Kampong Thom, 2) Preah Vihear, 3) Kratie and 4) Stung Treng.
+Prey Lang Wildlife Sanctuary (PLWS) is a protected area located in the central
+plains of Cambodia. As one of the largest areas of contiguous lowland tropical
+forests left in mainland Southeast Asia, PLWS was established in 2016 and 
+covers four provinces including 1) Kampong Thom, 2) Preah Vihear, 3) Kratie 
+and 4) Stung Treng.
 
-PLWS is notable for its immense biodiversity, providing critical refuge for up to 55 globally threatened vertebrates including gibbons, Asian elephants, and /insert carnivore/, while having up to 538 plant and tree species. PLWS is also critical in that it supports more than 250,000 people inhabiting the forest, including the indigenous Kuy people who reside in and around this protected area. PLWS also serves as an important watershed for the Mekong and the Tonle Sap lake.
+PLWS is notable for its immense biodiversity, providing critical refuge for up
+to 55 globallythreatened vertebrates including gibbons, Asian elephants, and 
+clouded leopards, while having up to 538 plant and tree species. PLWS is also
+critical in that it supports more than 250,000 people inhabiting the forest,
+including the indigenous Kuy people who reside in and around this protected
+area. PLWS also serves as an important watershed for the Mekong and the Tonle
+Sap lake.
 
-While maintaining protected area status, PLWS continues to face enormous natural resource extraction pressure due to weak enforcement of environmental laws and lack of resources. Illegal forest logging, wildlife trade, land encroachment, and unsustainable agricultural practices have led to continued degradation of quality forest habitat.
+While maintaining protected area status, PLWS continues to face enormous
+natural resource extraction pressure due to weak enforcement of environmental 
+laws and lack of resources. Illegal forest logging, wildlife trade, land 
+encroachment, and unsustainable agricultural practices have led to continued 
+degradation of quality forest habitat.
 
-PLWS is comprised mainly of evergreen and semi-evergreen forest, mixed with some deciduous forests and savanna grasslands.
+PLWS is comprised mainly of evergreen and semi-evergreen forest, mixed with
+some deciduous forests and savanna grasslands.
 
 ## Line Transects
 
@@ -148,8 +177,6 @@ Before data collection, transect lines were cleared using machetes to create a t
 Fifteen key biodiversity species were selected and targeted for biodiversity monitoring at PLWS.
 
 Data collection occurred during January to May 2023 during Cambodia's dry season. Transect grids were mainly completed in evergreen and semi-evergreen forest, with a few transect lines conducted in dry deciduous forest habitat. Each transect grid was surveyed twice per day, with a morning and afternoon session.
-
-Here is a map of transects:
 
 ```{r}
 #| label: plws-map
