@@ -16,6 +16,7 @@ format:
     css: styles.css
     toc: true
     number-sections: true
+    anchor-sections: true
     include-in-header:
       - text: |
           <link rel="preconnect" href="https://fonts.googleapis.com">
