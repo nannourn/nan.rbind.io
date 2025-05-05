@@ -2,7 +2,7 @@
 title: "Hierarchical Distance Sampling to Estimate Hornbill Densities in Cambodia"
 image: preview-image.jpg
 author:
-  - name: Nan Nourn នូនណាន
+  - name: Nan Nourn
     orcid: 0000-0001-5057-0640
     corresponding: true
     email: nan@msu.edu
@@ -40,19 +40,17 @@ abstract: |
   this PLWS REDD+ project, CI deployed a baseline assessment of transect line
   surveysto determine baseline population densities for key biodiversity
   species inhabiting PLWS.
-  Specifically, our objectives were to explore how the use of hierarchical
-  distance sampling (HDS) methods utilizing environmental covariates such as GH
-  group size, tree canopy height, and human influence, determined GH density
-  estimates within PLWS. Ultimately, we provide the first robust density and
-  population estimates for GH in Cambodia."
+  Specifically, our objectives were to explore how HDS methods utilizing
+  environmental covariates such as GH group size, tree canopy height, and human 
+  influence, determined GH density estimates within PLWS. Ultimately, we provide
+  the first robust density and population estimates for GH in Cambodia.
 date: last-modified
 bibliography: plws-ref.bib
 csl: global-ecology-and-conservation.csl
 editor: visual
 format: 
   html: default
-  pdf: 
-    pdf-engine: lualatex
+  pdf: default
   docx: default
 format-links: [pdf, docx]
 ---
@@ -75,7 +73,7 @@ library(here)
 
 ## REDD+
 
-Ongoing global deforestation within and around tropical forest ecosystems has led to continued decline of wildlife populations and rampant forest habitat degradation, contributing to the loss of critical ecosystem functioning and biodiversity affecting critical ecosystem processes such as climate and hydrological regulation. This is especially prominent in Global South countries and economies.
+Ongoing global deforestation within and adjacent to tropical forest ecosystems has led to continued decline of wildlife populations and rampant forest habitat degradation, contributing to the loss of critical ecosystem functioning and biodiversity decline affecting critical ecosystem processes such as climate and hydrological regulation. This is especially prominent in Global South countries where a majority of the world's tropical biomes and biodiversity remain.
 
 Reduced Emissions from Deforestation and Forest Degradation (REDD+) is a voluntary global scale climate change mitigation program aiming at creating financial values for carbon stored in forests, and aimed at offerring incentives to reduce greenhouse gas emissions from deforestation and forest degradation \[citation\].
 
