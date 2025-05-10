@@ -4,19 +4,49 @@ project:
 website:
   title: "Nan Nourn នួូនណាន"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - projects.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: resources.qmd
+        text: Resources
+    right:
+      - icon: github
+        href: https://github.com/nannourn
+        aria-label: GitHub
+      - text: "{{< iconify simple-icons bluesky >}}"
+        href: https://bsky.app/profile/seriousconservation.org
+        aria-label: Bluesky
+      - icon: instagram
+        href: https://instagram.com/seriousconservation
+        aria-label: Instagram
+      - icon: rss
+        href: index.xml
+        aria-label: RSS feed
+    page-footer:
+      left: |
+        Views and opinions expressed on this website do not represent any universities or funding organizations
+      center: |
+        {{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})
+      right: |
+        Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)
+        [View the source at {{< fa brands github >}} GitHub]({{< var github-url 
+
+  search:
+    location: navbar
+    type: overlay
+  site-url: https://nan.seriousconservation.org
+  description: "Nan Nourn នួនណាន is a doctoral candidate, Fulbright student and wildlife biologist specializing in tropical ecology and Bayesian statistics."
+  open-graph: true
 
 format:
   html:
     theme: minty
-    css: styles.css
     toc: true
     number-sections: true
-    anchor-sections: true
     include-in-header:
       - text: |
           <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -26,6 +56,8 @@ format:
     code-fold: show
     code-link: true
     code-overflow: wrap
+    css: styles.css
 
 execute:
   freeze: auto
+  

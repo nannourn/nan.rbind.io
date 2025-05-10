@@ -1,0 +1,160 @@
+---
+title: "xy: Plotting (Leopard) Locations in R"
+description: "Creating species occurrence maps with x,y location data."
+author:
+  - name: Nan Nourn
+    url: https://nan.seriousconservation.org
+    orcid: 0000-0001-5057-0640
+    affiliation: Michigan State University
+    affiliation-url: https://fw.msu.edu
+date: 05-03-2021
+categories: [R, GIS, sf, Spatial] #
+image: preview-image.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+As a wildlife biologist, one of the first steps in exploring spatial analyses with R is to produce a map with recorded (x, y) locations of your species of interest; for example, many researchers mark animal locations with a handheld Garmin GPS or obtain location data from GPS collars, and would like to see on a map where all the occurrences of their study animals have been recorded. I remember it took me forever just to learn this basic exercise so I thought it would be a nice blog post for students in the same position and beginning their spatial journey in becoming a **SAP** (Spatially Aware Professional).
+
+For #InternationalLeopardDay, I thought it would be a fun and simple exercise to download recorded leopard (*Panthera pardus*) occurrence records from the GBIF database and to produce a basic leopard occurrence map.
+
+The [Global Biodiversity Information Facility (GBIF)]('https://www.gbif.org/what-is-gbif') platform provides open access to biodiversity data, where many scientists have produced species distribution models and maps to explore global ranges for various wildlife species. We'll download leopard location data from GBIF and explore their range. **Note**: Like all open source databases, not all information inputted will be accurate. We'll have to use our best judgment to identify outlier points in GBIF, which mostly are attributed to user error.
+
+We'll be using `dismo`, `sf` and `tidyverse` packages to download GBIF data and tidy our spatial data. Remember, if you're starting to work exclusively with spatial data, `sf` is a package I [suggest that you should spend some considerable time with]('https://r-spatial.github.io/sf/').
+
+# Packages
+
+```{r}
+#| label: packages
+#| warning: false
+#| message: false
+library(dismo)
+library(sf)
+library(tidyverse)
+library(tmap)
+library(maptiles)
+```
+
+# Downloading the data
+
+I use the `gbif` function to download records for leopards (*Panthera pardus*). I also use the option `geo=FALSE` to download records without numerical georeferences (records that do not come with location x,y data). `nrecs` is the argument to download the max number of records at a time, which is 300.
+
+```{r}
+#| label: download
+#| warning: false
+pardus <- dismo::gbif("Panthera","pardus", geo = FALSE, nrecs = 300) 
+pardus %>% 
+  as_tibble() %>% 
+  head()
+```
+
+# Tidying the data
+
+The data tibble seems to look okay, with at least 9,882 records being downloaded. With many columns of information provided by GBIF, we are mainly interested in `lon` and `lat` (x,y data) and `locality`. Let's summarize our data by determining among the downloaded records, how many have coordinates, and how many records do not have coordinates but have a textual geo-reference (locality description).
+
+```{r}
+#| label: tidy
+#| warning: false
+# total number of records
+pardus %>% count() 
+# looking at how many NA lon-lat records there are
+pardus %>% 
+  group_by(lon, lat) %>% 
+  dplyr::count(sort = TRUE) %>% 
+  unite("loc", lon:lat, sep = ",") %>%
+  mutate(loc = fct_reorder(loc, n)) %>%
+  slice_head(n = 5)
+# looking at a sample of localities recorded with NA coordinates
+pardus %>%
+  filter(is.na(lat) | is.na(lon)) %>%
+  dplyr::count(locality, sort = TRUE) %>%
+  mutate(locality = fct_reorder(locality, n)) %>% 
+  slice_sample(n = 10)
+```
+
+So out of \~9,800 records downloaded, 2,500 records do not have geo-referenced coordinates and were inputted as (NA,NA) in the dataset. A lot of the records that were not geo-referenced but had a recorded locality listed were sightings of leopards from zoos, and records that wouldn't be too particularly useful in producing a map, such as "Africa", "on Simiyu River", "see remarks", etc.
+
+# Static Map
+
+Now it's time to make a simple map. We just want to use records with (lon, lat) from our `pardus` tibble frame. From the `sf` package, we want to create an `sf` spatial object by using the `st_as_sf()` function to retrieve the coordinates, and then use the `st_set_crs()` function for our projection of choice.
+
+We use the `geom_sf()` function with ggplot2 to put all the points together on the world map. Additionally, we can use the new `tm_basemap()` function to spice up our tmap.
+
+```{r}
+#| label: map-1
+#| warning: false
+# create sf obect with coordinations and projection
+pardus_sf <- pardus %>% 
+  filter(lon != is.na(lon) | lat != is.na(lat)) %>%
+  st_as_sf(coords = c("lon", "lat"), remove = FALSE) %>% # key function 
+  st_set_crs(4326)
+# load World map from tmap package
+data(World)
+# combine sf objects to produce ggplot map
+ggplot() +
+  geom_sf(data = World) +
+  geom_sf(data = pardus_sf, aes(color = "Panthera pardus"), alpha = 0.4) +
+  labs(title = "Panthera pardus occurrences",
+       subtitle = "Source: GBIF") +
+  scale_color_manual(name = "locations",
+                     values = "black") +
+  theme(legend.position = "bottom")
+# tmap
+tm_shape(pardus_sf) +
+  tm_dots(fill = "black", fill_alpha = 0.4) +
+  tm_graticules() +
+  tm_basemap("OpenTopoMap")
+```
+
+Some thoughts on the initial global map include records indicating leopards occurring in North and South America and Europe, which come as a surprise to me. These were probably occurrences in zoos or other captive facilities listed by public citizens. Thus, it is probably best to know a few things on current distribution of your focal species of interest before integrating records from public databases, such as GBIF. Also, I am aware I did not include a north arrow or scale bar for this map, as this is only a draft and not finalized for any publications.
+
+However, we can create a second map that focuses on Africa and Asia continents to get a clearer look at more natural leopard occurrences. We do this by filtering the areas of interest (Africa and Asia) in our World object. We then make sure the projections for both `pardus_sf_aa` and `africa_asia` objects are the same so that we can use the `st_intersection()` function to clip the locations that fall outside our Africa and Asia polygon, so that points in North America, South America and Europe don't show up on the map. The `st_crs()` argument is handy for extracting the CRS information from an object, and the `st_transform()` argument lets you change the CRS information for a given object. Changing the alpha value on the `pardus_sf_aa` points can show the density of locations; darker points show us that an aggregation of occurrences are mainly in southern Africa and India.
+
+```{r}
+#| label: map-2
+#| warning: false
+# filter world map for asia and africa continent
+africa_asia <- World %>% filter(continent=="Africa" | continent == "Asia")
+# set CRS for africa_asia the same as pardus
+myCRS <- st_crs(pardus_sf)
+africa_asia <- africa_asia %>% st_transform(myCRS)
+# check CRS
+st_crs(africa_asia)
+st_crs(pardus_sf)
+# now union
+pardus_sf_aa <- st_intersection(pardus_sf, africa_asia)
+# combine sf objects to produce ggplot map
+ggplot() +
+  geom_sf(data = africa_asia) +
+  geom_sf(data = pardus_sf_aa, aes(color = "Panthera pardus"), alpha = 0.4) +
+  labs(title = "Panthera pardus occurrences in Africa and Asia",
+       subtitle = "Source: GBIF") +
+  scale_color_manual(name = "locations",
+                     values = "darkorange") +
+  theme(legend.position = "bottom")
+# tmap
+tm_shape(pardus_sf_aa) +
+  tm_dots(fill = "darkorange", fill_alpha = 0.4) +
+  tm_graticules() +
+  tm_basemap("Esri.WorldTopoMap")
+```
+
+# Interactive Map
+
+I am also a big fan of producing interactive maps for quicker access to explore the data interactively. `tmap` provides an html interactive map mode for this task. You'll notice that the way to produce a `tmap` is similar to producing a map with the `ggplot` syntax.
+
+```{r}
+#| label: map-3
+pardus_int <- tm_shape(pardus_sf_aa) +
+  tm_dots(fill_alpha = 0.4, fill = "darkorange") +
+  tm_view(use.WebGL = FALSE)
+```
+
+View the interactive tmap!
+
+```{r}
+#| label: map-4
+#| message: false
+#| warning: false
+#| column: screen
+tmap_leaflet(pardus_int, show = TRUE)
+```

@@ -1,16 +1,12 @@
 ---
-title: "About"
+title: "Nan Nourn"
 about:
   template: jolla
   image: profile.jpeg
-  links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/seriouswildlife
-    - icon: github
-      text: Github
-      href: https://github.com/nannourn
 ---
 
-Nan Nourn is a doctoral candidate in the Department of Fisheries & Wildlife and Ecology,
-Evolution & Behavior Program at Michigan State University. When not trekking deep into tropical jungles, Nan enjoys spending time with his pet cat Max and pet bunny Boca. 
+I am a dual-major doctoral candidate in the Department of [Fisheries & Wildlife](#0) and [Ecology, Evolution & Behavior Program](#0) at Michigan State University. When not trekking deep into tropical jungles or pursuing North American big game on Western public lands, I enjoy spending time with my cat Max and bunny Boca while learning about wildflowers and native grasses with my partner Jacquie.
+
+For the 2024-2025 academic year, I am currently residing abroad in Phnom Penh, as a [U.S. Student Fulbrighter](https://us.fulbrightonline.org/fulbright-us-student-program) in Cambodia. Currently, I am collaborating with local conservation NGOs to develop statistical models in gaining insights towards population dynamics of threatened native wildlife species.
+
+You can contact me via email at nan\[at\]msu.edu.

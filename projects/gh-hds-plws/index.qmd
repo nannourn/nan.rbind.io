@@ -49,7 +49,12 @@ bibliography: plws-ref.bib
 csl: global-ecology-and-conservation.csl
 editor: visual
 format: 
-  html: default
+  html:
+    comments:
+      hypothesis: 
+        theme: classic
+        openSidebar: true
+        showHighlights: whenSidebarOpen
   pdf: default
   docx: default
 format-links: [pdf, docx]
@@ -77,21 +82,11 @@ Ongoing global deforestation within and adjacent to tropical forest ecosystems h
 
 Reduced Emissions from Deforestation and Forest Degradation (REDD+) is a voluntary global scale climate change mitigation program aiming at creating financial values for carbon stored in forests, and aimed at offerring incentives to reduce greenhouse gas emissions from deforestation and forest degradation \[citation\].
 
-In many cases, REDD+ provides an avenue for potential forest protection by providing financial-based incentives as conservation projects through reduced forest loss against a defined baseline [@pauly2022sr]. Through this mechanism, REDD+ proponents have supported the notion that Global North nations can contribute to sustainable development in Global South nations by investing in these carbon markets created through theoretical protection of forests.
+In many cases, REDD+ provides an avenue for potential forest protection by providing financial-based incentives as conservation projects through reduced forest loss against a defined baseline [@paulyetal2022sr]. Through this mechanism, REDD+ proponents have supported the notion that Global North nations can contribute to sustainable development in Global South nations by investing in these carbon markets created through theoretical protection of forests.
 
 In an effort to curtail forest loss and combat deforestation, REDD+ program schemes have been implemented globally in developing tropical regions along with generating carbon credits to be used. Generally, the funds obtained from these voluntary markets are used to better improve deforestation efforts, and promote conservation projects such as improving law enforcement, development alternative incomes for local communities, and research and monitoring of natural resources within protected areas.
 
-There is growing interest to monitor biodiversity for REDD+ projects [@dickson2012coies], however,
-there are few published papers that look at this specific instance where REDD+ projects are
-targeting biodiversity monitoring. "dickson2012coies" summarize the state of biodiversity
-monitoring within established REDD+ projects. [@waldon2011tcs] suggest that it is necessary to
-assess whether REDD+ management and project areas are achieving maintaining and improving
-biodiversity status, indicating a need to monitor changes and trends in populations of key
-indicator taxa for the project area. They maintain that while IUCN criteria are useful at a global
-scale, global wide assessments may not adequately reflect regional or localized concerns;
-therefore, assessments should be made at local and regional scales to identify biodiversity
-conservation targets. Camera trapping and acoustic methods are both non-invasive ways to collect
-biodiversity at an economical and time sensitive rate.
+There is growing interest to monitor biodiversity for REDD+ projects [@dicksonkapos2012coies], however, there are few published papers that look at this specific instance where REDD+ projects are targeting biodiversity monitoring. [@dicksonkapos2012coies] summarize the state of biodiversity monitoring within established REDD+ projects. [@waldonetal2011tcs] suggest that it is necessary to assess whether REDD+ management and project areas are achieving maintaining and improving biodiversity status, indicating a need to monitor changes and trends in populations of key indicator taxa for the project area. They maintain that while IUCN criteria are useful at a global scale, global wide assessments may not adequately reflect regional or localized concerns; therefore, assessments should be made at local and regional scales to identify biodiversity conservation targets. Camera trapping and acoustic methods are both non-invasive ways to collect biodiversity at an economical and time sensitive rate.
 
 ::: callout-warning
 Insert sources to make the link between the benefits of managing a REDD+ landscape entails a necessity to monitor biodiversity levels, thus also improving ecosystem functioning for the (tropical forest) region.
@@ -99,7 +94,7 @@ Insert sources to make the link between the benefits of managing a REDD+ landsca
 
 ## Cambodia
 
-Cambodia is known as a global biodiversity hotspot [@myers2000n]; however, Cambodia is plagued with deforestation problems due to rampant corruption along with a lack of strong enforcement to safeguard natural resources \[need citation\]. High powered companies and individuals are likely to benefit from the selling of land concessions and forest trees from converting land use to large-scale farm plantations and other industrial needs \[need citation\]. Cambodia is also a developing country meeting high demand for a growing population, in turn the country has the need to develop and expand infrastructure to support civil society. The main drivers of biodiversity decline are attributed through habitat loss from deforestation along with illegal poaching of wildlife for trade markets.
+Cambodia is known as a global biodiversity hotspot [@myersetal2000n]; however, Cambodia is plagued with deforestation problems due to rampant corruption along with a lack of strong enforcement to safeguard natural resources \[need citation\]. High powered companies and individuals are likely to benefit from the selling of land concessions and forest trees from converting land use to large-scale farm plantations and other industrial needs \[need citation\]. Cambodia is also a developing country meeting high demand for a growing population, in turn the country has the need to develop and expand infrastructure to support civil society. The main drivers of biodiversity decline are attributed through habitat loss from deforestation along with illegal poaching of wildlife for trade markets.
 
 In collaboration with the Cambodian Ministry of Environment (MoE), Conservation International-Cambodia (CI) has had a long-term partnership with the goal to conserve tropical forest natural resources. Various conservation programs such as protected area management, biodiversity monitoring and community livelihood improvements have been implemented to assess drivers of deforestation and other illegal activities regarding natural resources in PLWS.
 
@@ -117,19 +112,23 @@ In traditional conventional DS, population estimates are made by calculating a d
 
 However, modern estimates of wildlife populations need to take account imperfect detection and uncertainty when making reliable animal density estimates for the important fact of wildlife conservation management. Hierarchical models through the use of Bayesian statistics provides a robust, flexible framework where we are able to seperate the ecological and detection process through a hierarchical modeling framework through Bayesian statistical methods.
 
-We examine the affect of environmental and human covariates and how this affects localized greater hornbill densities across spatially replicated transects in Prey Lang Wildlife Sanctuary. [@royle2004e] utilized hierarchical distance sampling in order to examine the effect of covariates on abundance.
+We examine the affect of environmental and human covariates and how this affects localized greater hornbill densities across spatially replicated transects in Prey Lang Wildlife Sanctuary. [@royleetal2004e] utilized hierarchical distance sampling in order to examine the effect of covariates on abundance.
 
-This analytical framework allows flexibility for rarely collected data, especially in transects that were met with logistical constraints [@sillett2012ea].
+This analytical framework allows flexibility for rarely collected data, especially in transects that were met with logistical constraints [@sillettetal2012ea].
 
 ## Great Hornbills
 
-Hornbills are large forest birds classified in the order of Bucerotiformes [@corlett2017geaca] consisting of 15 genera, 62 species; with 32 species inhabiting Asia and 25 species in Africa [@poonswad2013cb]. Prominent characteristics are an oversized, long curved bill with a casque on top. Hornbills are known as the most important single family of seed dispersal agents for large-woody species in the forest canopy [@corlett2017geaca].
+Hornbills are large forest birds classified in the order of Bucerotiformes [@corlett2017geaca] consisting of 15 genera, 62 species; with 32 species inhabiting Asia and 25 species in Africa [@poonswadetal2013]. Prominent characteristics are an oversized, long curved bill with a casque on top. Hornbills are known as the most important single family of seed dispersal agents for large-woody species in the forest canopy [@corlett2017geaca].
 
 ::: callout-warning
-More information about the status of hornbill species throughout mainland Southeast Asia will be udpated here, with mainly studies from Thailand comprising the majority of the literature for the region.
+More information about the status of hornbill species throughout mainland Southeast Asia will be updated here, with mainly studies from Thailand comprising the majority of the literature for the region.
 :::
 
-Greater hornbill (GH) *Buceros bicornis* can be found in Cambodia occurring through their natural habitat of dense tropical evergreen forest.
+Hornbills can be considered an important keystone species for tropical forest biomes, due to their outsized contribution to ecosystem functioning from their role as seed dispersers. Thus, it is imperative to understand the current population dynamics of hornbills within the landscapes they reside in, and how hornbills are potentially impacted by increasing anthropogenic threats in tropical rainforests. 
+
+To understand the presence of hornbill species at a landscape scale, attention must be paid to the configuration of tree canopies and their effect on distributions of hornbills in both breeding and non-breeding seasons. Hornbill habitat use is often associated with the tallest trees in the forests due to their ability to produce large fruits. Utilizing 3D forest canopy structure, [@russoetal2024jae] determined that hornbill species preferred areas greater in canopy height and vertical complexity.
+
+Greater hornbill (GH) _Buceros bicornis_ can be found in Cambodia occurring through their natural habitat of dense tropical evergreen forest. Although there have been a number of studies dedicated towards understanding hornbill ecology within Southeast Asia, there has been no robust study as of yet aiming to understand current levels of hornbill densities and distribution throughout their range in Cambodia. 
 
 ::: callout-warning
 More information about the status of hornbill species in Cambodia will be udpated here.
@@ -137,36 +136,21 @@ More information about the status of hornbill species in Cambodia will be udpate
 
 ### Previous Hornbill Studies Utilizing Distance Sampling
 
-A number of peer-reviewed studies have incorporated line transect surveys and distance sampling (DS) analyses to estimate hornbill densities from different regions of the world. @sriprasertsil2024geac conducted variable-width line transect surveys and used multi-covariate distance sampling to estimate hornbill densities from June 2021 to June 2022 in two protected areas in Southern Thailand: Hala-Bala Wildlife Sanctuary and Budo Su-Ngai Padi National Park. @pradhan2024geac estimated abundances for four hornbill species: Great Hornbill, Wreathed Hornbill, Rufous-necked Hornbill, Oriental Pied-Hornbill) in the highly-fragmented and highly-modified Buxa Tiger Reserve in northern West Bengal, India. Researchers used line transects and multi-covariate distance sampling to estimate densities recording hornbill species, flock size, time of sighting, activity (perched, foraging, call and flight) and perpendicular distance from the observer to the bird. Predictor variables (elevation, density of fruiting trees, cut logs, total basal area) and hornbill occurrence was explored using a generalized linear model with binomial error structure with all hornbill occurrences pooled together. @pawar2021i utilized distance sampling methods to estimate abundance of Great Hornbills and Malabar Grey Hornbills in two contrasting habitat types in protected area rainforests versus fragmented habitat consisting of coffee plantations in India. They found that both hornbill species used both habitat types year-round. Their main findings include determining that distance sampling estimates were higher in protected areas for both nesting and non-nesting seasons.
+A number of peer-reviewed studies have incorporated line transect surveys and distance sampling (DS) analyses to estimate hornbill densities from different regions of the world. @sriprasertsiletal2024geac conducted variable-width line transect surveys and used multi-covariate distance sampling to estimate hornbill densities from June 2021 to June 2022 in two protected areas in Southern Thailand: Hala-Bala Wildlife Sanctuary and Budo Su-Ngai Padi National Park. @pradhanetal2024geac estimated abundances for four hornbill species: Great Hornbill, Wreathed Hornbill, Rufous-necked Hornbill, Oriental Pied-Hornbill) in the highly-fragmented and highly-modified Buxa Tiger Reserve in northern West Bengal, India. Researchers used line transects and multi-covariate distance sampling to estimate densities recording hornbill species, flock size, time of sighting, activity (perched, foraging, call and flight) and perpendicular distance from the observer to the bird. Predictor variables (elevation, density of fruiting trees, cut logs, total basal area) and hornbill occurrence was explored using a generalized linear model with binomial error structure with all hornbill occurrences pooled together. @pawaretal2021i utilized distance sampling methods to estimate abundance of Great Hornbills and Malabar Grey Hornbills in two contrasting habitat types in protected area rainforests versus fragmented habitat consisting of coffee plantations in India. They found that both hornbill species used both habitat types year-round. Their main findings include determining that distance sampling estimates were higher in protected areas for both nesting and non-nesting seasons.
 
-To date, there have been no formal estimates of population abundance for hornbills in Cambodia; thus, our goal was to estimate robust Great hornbill population estimates for the entirety of the Prey Lang Wildlife Sanctuary landscape, while simultaneously understanding the effects of habitat variation at landscape scale that could potentially affect density estimates.
+To date, there have been no formal estimates of population abundance for hornbills in Cambodia [@setha2004bci], thus our goal was to estimate Great hornbill population estimates for the entirety of the Prey Lang Wildlife Sanctuary landscape, while simultaneously understanding the effects of habitat variation at landscape scale could potentially affect density estimates.
 
 # Methods
 
 ## Study Area: Prey Lang Wildlife Sanctuary (PLWS)
 
-Prey Lang Wildlife Sanctuary (PLWS) is a protected area located in the central
-plains of Cambodia. As one of the largest areas of contiguous lowland tropical
-forests left in mainland Southeast Asia, PLWS was established in 2016 and 
-covers four provinces including 1) Kampong Thom, 2) Preah Vihear, 3) Kratie 
-and 4) Stung Treng.
+Prey Lang Wildlife Sanctuary (PLWS) is a protected area located in the central plains of Cambodia. As one of the largest areas of contiguous lowland tropical forests left in mainland Southeast Asia, PLWS was established in 2016 and covers four provinces including 1) Kampong Thom, 2) Preah Vihear, 3) Kratie and 4) Stung Treng.
 
-PLWS is notable for its immense biodiversity, providing critical refuge for up
-to 55 globallythreatened vertebrates including gibbons, Asian elephants, and 
-clouded leopards, while having up to 538 plant and tree species. PLWS is also
-critical in that it supports more than 250,000 people inhabiting the forest,
-including the indigenous Kuy people who reside in and around this protected
-area. PLWS also serves as an important watershed for the Mekong and the Tonle
-Sap lake.
+PLWS is notable for its immense biodiversity, providing critical refuge for up to 55 globallythreatened vertebrates including gibbons, Asian elephants, and clouded leopards, while having up to 538 plant and tree species. PLWS is also critical in that it supports more than 250,000 people inhabiting the forest, including the indigenous Kuy people who reside in and around this protected area. PLWS also serves as an important watershed for the Mekong and the Tonle Sap lake.
 
-While maintaining protected area status, PLWS continues to face enormous
-natural resource extraction pressure due to weak enforcement of environmental 
-laws and lack of resources. Illegal forest logging, wildlife trade, land 
-encroachment, and unsustainable agricultural practices have led to continued 
-degradation of quality forest habitat.
+While maintaining protected area status, PLWS continues to face enormous natural resource extraction pressure due to weak enforcement of environmental laws and lack of resources. Illegal forest logging, wildlife trade, land encroachment, and unsustainable agricultural practices have led to continued degradation of quality forest habitat.
 
-PLWS is comprised mainly of evergreen and semi-evergreen forest, mixed with
-some deciduous forests and savanna grasslands.
+PLWS is comprised mainly of evergreen and semi-evergreen forest, mixed with some deciduous forests and savanna grasslands.
 
 ## Line Transects
 

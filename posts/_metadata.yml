@@ -1,7 +1,17 @@
 # options specified here will apply to all posts in this folder
 
+# enable giscus comments
+comments:
+  giscus:
+    repo: nannourn/nan.rbind.io
+    repo-id: R_kgDOOkM41w
+    category: Announcements
+    mapping: pathname
+    theme: light_high_contrast
+
 # re-render posts only when a change to the source file is made ----
-freeze: auto
+execute:
+  freeze: auto
 
 # enable banner style title blocks ----
 title-block-banner: true
