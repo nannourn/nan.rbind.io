@@ -13,6 +13,6 @@ image: preview-image.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-Hi everybody, welcome to my new and updated website! Please bear with me while I move things around.
+Hi everybody, welcome to my new and updated website! Please bear with me while I move things around a little bit.
 
 What else would you like to see on the site? More blog posts? Let me know in the comments below!
