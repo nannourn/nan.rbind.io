@@ -5,14 +5,18 @@ website:
   title: "Nan Nourn នួូនណាន"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: projects.qmd
-        text: Projects
-      - href: resources.qmd
-        text: Resources
+    - text: Home
+      href: index.qmd
+    - text: About
+      menu: 
+        - text: Nan
+          href: about.qmd
+        - text: CV
+          href: cv.qmd
+    - text: Projects
+      href: projects.qmd
+    - text: Resources
+      href: resources.qmd
     right:
       - icon: github
         href: https://github.com/nannourn
@@ -44,6 +48,7 @@ website:
 
 format:
   html:
+    css: styles.css
     theme: minty
     toc: true
     number-sections: true
@@ -56,7 +61,6 @@ format:
     code-fold: show
     code-link: true
     code-overflow: wrap
-    css: styles.css
 
 execute:
   freeze: auto

@@ -1,0 +1,22 @@
+---
+title: "CV"
+number-sections: false
+---
+# Education
+
+| Year | Degree | University | Major |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| 2011 | A.S. | San Diego Community College District | Biological Studies |
+| 2013 | B.S. | San Diego State University | Biology |
+| 2013 | B.S. | San Diego State University | Environmental Science |
+| 2020 | Graduate Certificate | Michigan State University | Spatial Ecology |
+| 2018--current | dual-Ph.D. | Michigan State University | Fisheries & Wildlife |
+| 2018--current | dual-Ph.D. | Michigan State University | Ecology, Evolution & Behavior |
+
+# Research Experience
+
+# Funding
+
+# Publications
+::: {#refs}
+:::
