@@ -15,8 +15,12 @@ number-sections: false
 
 # Research Experience
 
+tbd
+
 # Funding
 
+tbd
+
 # Publications
-::: {#refs}
-:::
+
+tbd
