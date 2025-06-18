@@ -50,9 +50,10 @@ csl: global-ecology-and-conservation.csl
 editor: visual
 format: 
   html:
+    theme: classic
+    monofont: Fira Code
     comments:
       hypothesis: 
-        theme: classic
         openSidebar: true
         showHighlights: whenSidebarOpen
   pdf: default
@@ -72,6 +73,7 @@ library(sf)
 library(tmap)
 library(rjags)
 library(here)
+systemfonts::require_font("Fira Code")
 ```
 
 # Introduction
@@ -124,11 +126,11 @@ Hornbills are large forest birds classified in the order of Bucerotiformes [@cor
 More information about the status of hornbill species throughout mainland Southeast Asia will be updated here, with mainly studies from Thailand comprising the majority of the literature for the region.
 :::
 
-Hornbills can be considered an important keystone species for tropical forest biomes, due to their outsized contribution to ecosystem functioning from their role as seed dispersers. Thus, it is imperative to understand the current population dynamics of hornbills within the landscapes they reside in, and how hornbills are potentially impacted by increasing anthropogenic threats in tropical rainforests. 
+Hornbills can be considered an important keystone species for tropical forest biomes, due to their outsized contribution to ecosystem functioning from their role as seed dispersers. Thus, it is imperative to understand the current population dynamics of hornbills within the landscapes they reside in, and how hornbills are potentially impacted by increasing anthropogenic threats in tropical rainforests.
 
 To understand the presence of hornbill species at a landscape scale, attention must be paid to the configuration of tree canopies and their effect on distributions of hornbills in both breeding and non-breeding seasons. Hornbill habitat use is often associated with the tallest trees in the forests due to their ability to produce large fruits. Utilizing 3D forest canopy structure, [@russoetal2024jae] determined that hornbill species preferred areas greater in canopy height and vertical complexity.
 
-Greater hornbill (GH) _Buceros bicornis_ can be found in Cambodia occurring through their natural habitat of dense tropical evergreen forest. Although there have been a number of studies dedicated towards understanding hornbill ecology within Southeast Asia, there has been no robust study as of yet aiming to understand current levels of hornbill densities and distribution throughout their range in Cambodia. 
+Greater hornbill (GH) *Buceros bicornis* can be found in Cambodia occurring through their natural habitat of dense tropical evergreen forest. Although there have been a number of studies dedicated towards understanding hornbill ecology within Southeast Asia, there has been no robust study as of yet aiming to understand current levels of hornbill densities and distribution throughout their range in Cambodia.
 
 ::: callout-warning
 More information about the status of hornbill species in Cambodia will be udpated here.

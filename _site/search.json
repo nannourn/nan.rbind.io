@@ -18,7 +18,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Hierarchical Distance Sampling to Estimate Hornbill Densities in Cambodia\n\n\nWe explore hierarchical distance sampling (HDS) analyses to estimate native wildlife densities in Cambodia. Specifically, we leverage wildlife occurrence and distance data…\n\n\n\nNan Nourn, Dan Kramer\n\n\nMay 6, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Hierarchical Distance Sampling to Estimate Hornbill Densities in Cambodia\n\n\nWe explore hierarchical distance sampling (HDS) analyses to estimate native wildlife densities in Cambodia. Specifically, we leverage wildlife occurrence and distance data…\n\n\n\nNan Nourn, Dan Kramer\n\n\nJun 18, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2025-05-02-new-website/index.html",
@@ -46,7 +46,7 @@
     "href": "projects/gh-hds-plws/index.html",
     "title": "Hierarchical Distance Sampling to Estimate Hornbill Densities in Cambodia",
     "section": "",
-    "text": "Codelibrary(tidyverse)\nlibrary(tidybayes)\nlibrary(sf)\nlibrary(tmap)\nlibrary(rjags)\nlibrary(here)"
+    "text": "Codelibrary(tidyverse)\nlibrary(tidybayes)\nlibrary(sf)\nlibrary(tmap)\nlibrary(rjags)\nlibrary(here)\nsystemfonts::require_font(\"Fira Code\")"
   },
   {
     "objectID": "projects/gh-hds-plws/index.html#redd",
